@@ -1,0 +1,107 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": true,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": false,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:\"Brand\"",
+      "color": {
+        "a": 1,
+        "rgb": 2111626
+      }
+    },
+    {
+      "query": "path:\"Content\"",
+      "color": {
+        "a": 1,
+        "rgb": 1096065
+      }
+    },
+    {
+      "query": "path:\"Research\"",
+      "color": {
+        "a": 1,
+        "rgb": 15381256
+      }
+    },
+    {
+      "query": "path:\"Workflows\"",
+      "color": {
+        "a": 1,
+        "rgb": 11032055
+      }
+    },
+    {
+      "query": "path:\"System\"",
+      "color": {
+        "a": 1,
+        "rgb": 4674921
+      }
+    },
+    {
+      "query": "path:\"Inbox\"",
+      "color": {
+        "a": 1,
+        "rgb": 16347926
+      }
+    },
+    {
+      "query": "path:\"_archive\"",
+      "color": {
+        "a": 1,
+        "rgb": 8330525
+      }
+    },
+    {
+      "query": "path:\"Templates\"",
+      "color": {
+        "a": 1,
+        "rgb": 4674921
+      }
+    },
+    {
+      "query": "path:\"Brand/technical-sheets\"",
+      "color": {
+        "a": 1,
+        "rgb": 9480642
+      }
+    },
+    {
+      "query": "path:\"Brand/themes\" OR file:\"visual-language\"",
+      "color": {
+        "a": 1,
+        "rgb": 14239471
+      }
+    },
+    {
+      "query": "file:\"_index\" OR file:\"vault-map\" OR file:\"CONTEXT\"",
+      "color": {
+        "a": 1,
+        "rgb": 16096779
+      }
+    },
+    {
+      "query": "file:\"CLAUDE\" OR file:\"SYSTEMS_CHECKUP\" OR file:\"JARVIS\" OR file:\"HEALTH_CHECK\"",
+      "color": {
+        "a": 1,
+        "rgb": 13765137
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": true,
+  "textFadeMultiplier": -3,
+  "nodeSizeMultiplier": 0.686979166666667,
+  "lineSizeMultiplier": 0.508333333333333,
+  "collapse-forces": false,
+  "centerStrength": 0,
+  "repelStrength": 15,
+  "linkStrength": 1,
+  "linkDistance": 99,
+  "scale": 0.19450022690615745,
+  "close": false
+}

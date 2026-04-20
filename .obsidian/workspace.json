@@ -1,0 +1,233 @@
+{
+  "main": {
+    "id": "9eeb16302a3a676b",
+    "type": "split",
+    "children": [
+      {
+        "id": "df833afc7a69cb00",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4878808085d2568e",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c7d9a99474324888",
+    "type": "split",
+    "children": [
+      {
+        "id": "1875c2566f63ce65",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5a0265b7f464b9a2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "8059e66d8b05be21",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "81ffe18c53c29cb9",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "9ad2e2f299d02b29",
+    "type": "split",
+    "children": [
+      {
+        "id": "436df994745f618e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e248a2e38081c357",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Brand/audience.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for audience"
+            }
+          },
+          {
+            "id": "4d2bcb0d6bb0ced5",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Brand/audience.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from audience"
+            }
+          },
+          {
+            "id": "224e1fab2b43a451",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "a519408983f98efd",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "88aca6535a235ee5",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "ea4c34f3bded98f1",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {},
+              "icon": "lucide-info",
+              "title": "File properties"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 578.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "4878808085d2568e",
+  "lastOpenFiles": [
+    "Workflows/freepik-prompts.md",
+    "Content/reel-production.md",
+    "System/ids.md",
+    "CLAUDE.md",
+    "Workflows/_index.md",
+    "HEALTH_CHECK_REPORT.md",
+    "SYSTEMS_CHECKUP_REPORT.md",
+    "JARVIS_ARCHITECTURE.md",
+    "System/intent-classifier.md",
+    "System/ingestion-pipeline.md",
+    "System/agent-architecture.md",
+    "Content/decisions-log.md",
+    "Research/competitor-matrix.md",
+    "Research/competitors/scitec-nutrition.md",
+    "Research/competitors/transparent-labs.md",
+    "Research/competitors/atlhetica-nutrition.md",
+    "Research/competitors/_index.md",
+    "Research/_index.md",
+    "Research/competitors/myprotein.md",
+    "Research/competitor-intel.md.tmp.12824.1776544069444",
+    "Research/competitors/_index.md.tmp.12824.1776544018516",
+    "Research/competitors/muscletech.md",
+    "Research/competitors/optimum-nutrition.md",
+    "Research/competitors/optimum-nutrition.md.tmp.12824.1776543787630",
+    "Research/competitors/dux-human-health.md",
+    "Research/competitors/atomic-labs.md",
+    "Research/competitors/atlhetica-nutrition.md.tmp.12824.1776543743001",
+    "Research/competitors/max-titanium.md",
+    "Content/calendar.md",
+    "Research/competitors/growth-supplements.md",
+    "Research/competitors",
+    "System/content-types.md.tmp.12824.1776543602320",
+    "System/taxonomy.md.tmp.12824.1776543588616",
+    "System/interaction-log.md.tmp.12824.1776542860302",
+    "CONTEXT.md.tmp.12824.1776542843241",
+    "HEALTH_CHECK_REPORT.md.tmp.12824.1776542660916",
+    "Untitled.canvas"
+  ]
+}
