@@ -57,13 +57,14 @@ O fechamento. Mostre o produto. Mande a pessoa tomar uma ação direta usando o 
 
 ## 💊 Parte 3: Seu Arsenal Químico (Resumo de Produtos)
 
-Aqui está a nossa "cola" científica. Clique para abrir os bastidores dos nossos quatro produtos mais vendidos. Decore os diferenciais. São neles que a mágica acontece.
+Aqui está a nossa "cola" científica. Clique para abrir os bastidores dos nossos 6 produtos essenciais de performance. Decore os diferenciais. São neles que a mágica acontece.
 
 <details>
 <summary><b>1. Magnific Whey Gourmet 3W 🍫</b></summary>
 <br>
 
 **O que é:** Proteína 3W (Concentrada + Isolada + Hidrolisada) com sabor premium aprovado mundialmente.
+**Sabores Disponíveis:** Morango com Chocolate Branco | Chocolate com Avelã
 **O Segredo da Qualidade:** A nossa matéria-prima vem da Irlanda (Glanbia), o maior fornecedor mundial. É a exata mesma base de proteína das marcas de elite nos EUA.
 **Hook de Vendas:** "Sabia que a mesma empresa que fornece a matéria-prima do Whey mais vendido do mundo também fornece para a Medicinal Pharma?"
 
@@ -74,6 +75,7 @@ Aqui está a nossa "cola" científica. Clique para abrir os bastidores dos nosso
 <br>
 
 **O que é:** Creatina monohidratada pura 300g (100doses/3g).
+**Sabores Disponíveis:** Sabor Natural (sem sabor)
 **O Segredo da Qualidade:** Creatina Micronizada Alemã. O processo de micronização quebra as partículas da creatina em tamanhos até quatro vezes menores. Ela dissolve 100% no copo (não afunda igual areia) e absorve diretamente dentro do músculo, sem inchaço.
 **Hook de Vendas:** "Por que a creatina micronizada dissolve completamente na água e a sua atual afunda no copo? Vem ver a diferença."
 
@@ -84,6 +86,7 @@ Aqui está a nossa "cola" científica. Clique para abrir os bastidores dos nosso
 <br>
 
 **O que é:** Queimador de gorduras superpotente (200mg Cafeína + 1600mg Carnitina + Cromo).
+**Embalagem:** Pote com 90 Cápsulas
 **O Segredo da Qualidade:** Termogênicos baratos só te enchem de cafeína pra dar taquicardia. O Lipo-X não te deixa agitado à toa — a carnitina dele puxa a gordura de verdade diretamente para a célula queimar durante o cardio, e o cromo bloqueia as vontades de doce.
 **Hook de Vendas:** "Tomar 400mg de cafeína pura só destrói o seu sono. Como um termogênico real acelera o seu metabolismo? Eu te mostro."
 
@@ -94,8 +97,31 @@ Aqui está a nossa "cola" científica. Clique para abrir os bastidores dos nosso
 <br>
 
 **O que é:** Pump, energia e foco vascular extremo na dose certa.
+**Sabores Disponíveis:** Maçã Verde Ice | Morango Ice
 **O Segredo da Qualidade:** Zero misturas ocultas. As 2 gramas de Beta-Alanina limpam a acidez do músculo para você fazer a última repetição. A taurina corta a ansiedade típica da cafeína.
 **Hook de Vendas:** "O formigamento que o pré-treino dá na sua pele não é ruim. Hoje eu vou te explicar o que está acontecendo no seu corpo."
+
+</details>
+
+<details>
+<summary><b>5. L-Glutamine Premium 🛡️</b></summary>
+<br>
+
+**O que é:** L-Glutamina de máxima pureza, grau clínico e hospitalar.
+**Sabores Disponíveis:** Sabor Natural (sem sabor)
+**O Segredo da Qualidade:** A nossa glutamina vem diretamente do Japão. É a base da recuperação celular, protegendo sua barreira intestinal e blindando sua imunidade pós-treino intenso.
+**Hook de Vendas:** "Glutamina não é apenas para músculo. Entenda o porquê dela ser o combustível do seu sistema imune e a guardiã do seu intestino."
+
+</details>
+
+<details>
+<summary><b>6. Multi AZ Extreme Multivitaminic 💊</b></summary>
+<br>
+
+**O que é:** Suporte completo de micronutrientes para cobrir lacunas da dieta de atletas.
+**Embalagem:** Pote com 60 Cápsulas
+**O Segredo da Qualidade:** Não importa seu esforço muscular se faltarem as 300+ enzimas que dependem de zinco, ferro e complexo B. Atletas de verdade precisam de doses diárias completas para sustentar a máquina.
+**Hook de Vendas:** "Sabe por que seu progresso pode ter travado? Quem treina forte gasta micronutrientes mais rápido. Um multivitamínico normal de farmácia já não dá mais conta do recado."
 
 </details>
 
