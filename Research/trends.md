@@ -87,6 +87,20 @@ related:
 
 ---
 
+### 20/04/2026 — Regulação: ANVISA e atenção a suplementos na antidopagem
+- **Fonte:** GOV.BR / Globo.com (via Daily Intel Tracker)
+- **Dado principal:** Matérias recentes destacam riscos na antidopagem e atenção médica crescente aos chamados "suplementos naturais".
+- **Relevância para MP:** Manter compliance absoluto nos rótulos e reforçar no conteúdo o "certificado de pureza" das matérias-primas importadas (ex: Glanbia) como garantia contra contaminação cruzada.
+
+---
+
+### 20/04/2026 — Regulação: ANVISA proíbe suplementos com ozônio
+- **Fonte:** MSN (via Daily Intel Tracker)
+- **Dado principal:** Anvisa proibiu de forma sumária suplementos alimentares e energéticos contendo ozônio.
+- **Relevância para MP:** Gancho para conteúdo (Oportunidade Orgânica): Ao invés de falar do ozônio diretamente (o que pode gerar flags algorítmicos), bater na tecla do "o básico validado vs as fórmulas mágicas de Instagram que a ANVISA derruba". Destacar a ISSN Position Stand sobre ingredientes limpos.
+
+---
+
 ## Ingredientes em monitoramento
 
 | Ingrediente | Status | Tendência | Fonte |

@@ -28,6 +28,7 @@ Atualizar o status à medida que os itens forem resolvidos.
 | 004 | 16/04/2026 | [[Brand/brand-core]], [[Brand/product-catalog]] | **Perfil completo de aminoácidos** do Whey ausente (18 aminoácidos com valores em mg) | Adicionado nas fichas técnicas e brand-core | ✅ Corrigido |
 | 005 | 16/04/2026 | [[Brand/brand-core]], [[Brand/product-catalog]] | **Valores nutricionais exatos** do Whey ausentes (kcal, carbs, gordura, sódio por porção) | Adicionado nas fichas técnicas | ✅ Corrigido |
 | 013 | 20/04/2026 | `Inbox/_unclassified/`          | **Entidade não canônica**: Imagens detectadas para `GARRAFAS_E_ACESSORIOS`, mas não há ID listado em `System/ids.md`.                                        | ID canônico criado no dict e metadados base de histórico para acessórios configurados. Ingestão liberada.                                                                                                                        | ✅ Corrigido    |
+| 014 | 20/04/2026 | `Inbox/_unclassified/2026-04-20-daily-intel.md` | **Falta de regra na Taxonomia**: O tipo de conteúdo `intel-report` gerado diariamente não tem uma pasta de arquivamento definitivo em `System/taxonomy.md`. | Relatórios passam a agir como input transitório e são assimilados nos perfis das entidades (ex: `trends.md`, `competitors/`) e depois arquivados em vez de ocuparem espaço próprio. | ✅ Corrigido    |
 
 ---
 

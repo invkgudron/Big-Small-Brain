@@ -212,17 +212,17 @@ last_ingested: <YYYY-MM-DD>
 ---
 
 ## competitor-profile
-**Propósito:** Perfil individual de uma marca concorrente específica (nacional ou benchmark internacional).
+**Propósito:** Perfil individual de uma marca concorrente específica com foco em aplicar inteligência na própria produção de conteúdo.
 **Localização:** `Research/competitors/<brand-slug>.md`
 **Estrutura mínima:**
 - Ficha rápida (holding, faturamento, presença)
 - Visão geral (1 parágrafo)
 - Análise de mensagem (tagline, proposta de valor, temas, tom e voz)
-- Estratégia de produto
-- Estratégia de conteúdo e digital
-- Pontos fortes
-- Pontos fracos
-- Insight estratégico para MP (quando aplicável)
+- Estratégia de produto (incluindo lançamentos e combos/kits)
+- Marketing & Content Tear-down (Hooks que utilizam, Formas de CTA, Padrões de Design, Retenção)
+- Pontos fortes & Pontos fracos
+- Oportunidades Orgânicas para MP (como traduzir as fraquezas e tópicos virais deles em nossos Reels?)
+- Atividade Recente (Intel diário absorvido via script)
 **Frontmatter extra:**
 ```yaml
 competitor_id: <slug>        # ID canônico em System/ids.md seção 8

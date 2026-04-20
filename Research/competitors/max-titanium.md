@@ -68,3 +68,8 @@ Max Titanium é uma das marcas com crescimento mais acelerado em influência dig
 ## Insight estratégico para MP
 
 Max Titanium valida o **volume** de rede de creators como tática, mas a mensagem é diluída. MP pode se posicionar no oposto: **comunidade pequena e coesa de alta performance** (afiliados como atletas parceiros, não micro-influencers pagos) — qualidade narrativa que Max não consegue executar com 18k criadores.
+
+## Atividade Recente (Intel)
+
+- **2026-04-20**: [Max Titanium amplia portfólio de barras proteicas - Panorama Farmacêutico](https://news.google.com/rss/articles/CBMijwFBVV95cUxQc0VmbXJfSWtZZ0x3Umllc3lpaF96V21WSC1JVFlDSWxuc01DU0pFR1hBZjN3YjFQeVlSVUFLRFhSUkJOLUhLVC1ZZmxiNWJDTEVoTXBwcUVBZDdQbDA3RzJiNmVWclZhYkdxY0xLN0E4dGp2NnpoQ2NiQjY0NkVlYngySGtMYnpTV0pPbTRtOA?oc=5)
+- **2026-04-20**: [Max Titanium e 7 Belo lançam creatina e pré-treino com sabor da bala - GKPB - Geek Publicitário](https://news.google.com/rss/articles/CBMiWkFVX3lxTE94WFBMaXpDT2UxdkpZWXl4RXUtMWlKV2s2Zk16cThRZ19vV3Y5QkUxc1U2UHFMN0tlbkxMU3RhWUFEZlpUZVk0U1haWU9RRHQteHV3NDh0ZFl6Zw?oc=5)

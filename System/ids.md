@@ -116,8 +116,8 @@ Ver rede completa em [[Brand/audience]].
 
 | ID | Entidade | Origem | Produto associado |
 |----|----------|--------|-------------------|
-| `glanbia` | Glanbia plc | Irlanda | whey-3w |
-| `creatine-de` | Fornecedor de creatina (Alemanha) | Alemanha | creatine |
+| `glanbia` | [[Brand/suppliers/glanbia|Glanbia plc]] | Irlanda (Origem Proteína: EUA) | whey-3w |
+| `creapure` | [[Brand/suppliers/creapure|Creapure (AlzChem)]] | Alemanha | creatine |
 | `glutamine-jp` | Fornecedor de glutamina (Japão) | Japão | glutamine |
 | `bioghen` | Bioghen Suplementos Nutricionais Ltda | Brasil (SP) | fabricante de todos os produtos |
 

@@ -38,6 +38,7 @@ Cada conteúdo novo é roteado pela seguinte hierarquia de decisão. A regra é 
 | Perfil de público, cupons, afiliados, geografia | `Brand/` | `audience.md` (append ou seção) |
 | Catálogo: SKU + preço + kit + estoque | `Brand/` | `product-catalog.md` |
 | Ingrediente ativo: efeito, dose clínica, estudo | `Brand/` | `ingredient-reference.md` |
+| Perfil de fornecedor / parceiro (detalhes corporativos) | `Brand/suppliers/` | 1 arquivo por fornecedor |
 | Post publicado (carrossel, reel, story) | `Content/` | `post-history.md` (append — seção por data) |
 | Campanha (multi-post, período definido) | `Content/` | `campaign-NN-slug.md` |
 | Template reutilizável (carrossel, reel, e-mail) | `Content/` | `content-templates.md` |

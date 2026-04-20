@@ -41,7 +41,7 @@ tags: [ingredient-reference, brand]
 
 **Produto:** Magnific Whey Protein Gourmet 3W
 **Dose por porção:** 24g de proteína total (em 40g de pó)
-**Fornecedor:** Glanbia (Irlanda) — maior fornecedor mundial de Whey Protein
+**Fornecedor:** Glanbia (Irlanda) — Proteína filtrada nos EUA
 
 ### Composição da Fórmula 3W
 
@@ -99,7 +99,7 @@ O Whey Protein é a fonte proteica com maior escore de aminoácidos essenciais (
 
 **Produto:** Power Creatine Micronized
 **Dose por porção:** 3.000mg (3g) — 1 dosador/dia
-**Origem:** Alemanha (micronização industrial)
+**Origem:** Creapure® (Alemanha) — Micronização industrial de alta pureza
 
 ### Mecanismo de Ação
 A creatina é armazenada nos músculos principalmente na forma de fosfocreatina (PCr). Durante exercícios de alta intensidade e curta duração (sprints, levantamentos, saltos), o ATP é hidrolisado rapidamente e a PCr doa seu grupo fosfato para regenerar o ATP via creatina-quinase. A micronização reduz o diâmetro médio da partícula (de ~200μm para <50μm), aumentando a área de superfície e a velocidade de dissolução, sem alterar a estrutura molecular do composto. O resultado prático é maior solubilidade, menor resíduo no copo e absorção intestinal mais consistente.
@@ -450,7 +450,7 @@ O Multi AZ cobre 18 micronutrientes, com 100% VD para a maioria das vitaminas do
 | Critério | Avaliação | Comentário |
 |----------|-----------|------------|
 | Dosagem de princípios ativos | ★★★★☆ | Creatina (3g ✓), Glutamina (5g ✓), Beta-Alanina (2g ✓), Carnitina (1,6g ✓), Cafeína (150–200mg ✓). Arginina levemente subdosada isoladamente. |
-| Qualidade das matérias-primas | ★★★★★ | Creatina alemã micronizada, Whey Glanbia (Irlanda), Glutamina grau clínico (Japão). Formas químicas dos minerais no Multi AZ são superiores ao padrão de mercado. |
+| Qualidade das matérias-primas | ★★★★★ | Creatina alemã (Creapure®), Whey Glanbia (USA), Glutamina grau clínico (Japão). Formas químicas dos minerais no Multi AZ são superiores ao padrão de mercado. |
 | Ausência de proprietary blends | ★★★★★ | Todas as doses são declaradas individualmente no rótulo. Total transparência — diferencial competitivo relevante. |
 | Cobertura de objetivos esportivos | ★★★★★ | Os 5 objetivos do portfólio (energia pré-treino, força, definição, recuperação, saúde geral) têm produtos correspondentes e sinérgicos entre si. |
 | Riscos de interação | ★★★★☆ | Único ponto de atenção: uso simultâneo de Anabolic Training (150mg cafeína) + Lipo-X HD (200mg cafeína) = 350mg total. Aconselhável uso em horários distintos. |

@@ -128,8 +128,8 @@ related:
 
 | Produto | Matéria-Prima | Fornecedor | País | Diferencial |
 |---------|--------------|-----------|------|-------------|
-| [[power-creatine\|Power Creatine]] | Creatina Monohidratada | — | Alemanha | Micronização reduz o tamanho da partícula vs. creatina comum — 100% de absorção celular |
-| [[magnific-whey-chocolate-avela\|Magnific Whey]] | Proteína do Soro (Concentrada + Isolada + Hidrolisada) | Glanbia | Irlanda | Maior fornecedor mundial de Whey; 3 filtragens de alto grau |
+| [[power-creatine|Power Creatine]] | Creatina Monohidratada | Creapure | Alemanha | Micronização reduz o tamanho da partícula vs. creatina comum — 100% de absorção celular |
+| [[magnific-whey-chocolate-avela|Magnific Whey]] | Proteína do Soro (Concentrada + Isolada + Hidrolisada) | Glanbia | USA | Maior fornecedor mundial de Whey; empresa irlandesa com filtragem nos EUA |
 | [[l-glutamine\|L-Glutamine]] | L-Glutamina | — | Japão | Pureza máxima; grau clínico e hospitalar |
 
 ## Fabricação

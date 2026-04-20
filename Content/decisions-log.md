@@ -11,6 +11,49 @@ related:
 
 # Decisions Log
 
+## 20/04/2026 — Criação de Perfis de Fornecedor (Glanbia e Creapure)
+
+**Decisão:** Centralizar informações corporativas e técnicas sobre parceiros de matéria-prima em arquivos dedicados. Foi criada a subpasta `Brand/suppliers/` para abrigar esses perfis, garantindo que o vault suporte inteligência de supply chain de forma estruturada.
+
+**Arquivos criados/atualizados:**
+- `Brand/suppliers/glanbia.md` — Perfil corporativo completo.
+- `Brand/suppliers/creapure.md` — Perfil corporativo completo.
+- `System/taxonomy.md` — Registrada a regra de roteamento para `Brand/suppliers/`.
+- `System/ids.md` — WikiLinks disparados para os novos perfis a partir do dicionário de IDs.
+
+**Motivo:** O usuário solicitou documentação perene sobre as empresas fornecedoras para referência futura. A granularidade permite que se referencie a "empresa" Glanbia separadamente do "ingrediente" Whey, mantendo a integridade do protocolo Jarvis.
+
+---
+
+## 20/04/2026 — Atualização de Inteligência de Origem (Glanbia/EUA e Creapure/Alemanha)
+
+**Decisão:** Atualizar o vault com dados precisos sobre os fornecedores de matéria-prima. A empresa Glanbia (Irlanda) realiza a filtragem/origem da proteína nos **EUA**. A creatina é fornecida pela marca **Creapure** (Alemanha).
+
+**Arquivos atualizados:**
+- `System/ids.md` — Renomeado ID `creatine-de` para `creapure`; atualizado `glanbia` com origem EUA.
+- `CONTEXT.md` — Atualizado insight estratégico sobre a origem da proteína Glanbia.
+- `Brand/brand-core.md` / `Brand/ingredient-reference.md` — Atualizadas tabelas de origem e referências técnicas.
+- `Brand/product-catalog.md` — Atualizadas fichas técnicas de Whey e Creatina.
+- `Content/campaign-01-origem-performance.md` — Atualizados Reels, mensagens e keywords para destacar Creapure e USA.
+
+**Motivo:** Novos dados fornecidos pelo usuário via áudio. A precisão na origem é o pilar central da Campanha 01 ("De Onde Vem a Sua Performance?"), permitindo hooks mais específicos e maior autoridade técnica.
+
+---
+
+## 20/04/2026 — Classificação e Assimilação de Daily Intel Reports (Resolução Issue 014)
+
+**Decisão:** Os relatórios diários de inteligência (`intel-report`) gerados automaticamente não serão armazenados como arquivos individuais permanentes. Em vez disso, seu conteúdo é "assimilado" (distribuído) aos perfis correspondentes (`Research/competitors/<marca>.md`) e ao arquivo central de tendências (`Research/trends.md`), sendo a fonte bruta arquivada.
+
+**Arquivos atualizados:**
+- `Research/competitors/growth-supplements.md` — adicionadas notícias da marca sob "Atividade Recente".
+- `Research/competitors/max-titanium.md` — adicionadas notícias da marca sob "Atividade Recente".
+- `Research/trends.md` — adicionada notícia de regulação (ANVISA) na trilha do monitoramento.
+- `Content/issues-log.md` — Issue 014 classificada como Corrigido.
+
+**Motivo:** Usuário definiu verbalmente (áudio) que a novidade deve ser acoplada à estrutura existente. Isso mantém o conceito de que o Vault não é um feed de notícias, mas uma base de conhecimento atrelada a entidades canônicas.
+
+---
+
 ## 20/04/2026 — Integração de Merchandising/Acessórios no Dicionário Canônico
 
 **Decisão:** Expandir o dicionário canônico (`System/ids.md`) para suportar itens físicos da marca que não são suplementos nutricionais, criando a sub-categoria `1.1 Acessórios`, a fim de classificar assets visuais recuperados no Vault Ingestor.

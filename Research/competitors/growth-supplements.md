@@ -70,3 +70,7 @@ Fundada há 17+ anos, a Growth foi construída como marca digital-nativa, domina
 ## Insight estratégico para MP
 
 **Ameaça dominante do mercado** (ver [[Research/competitor-matrix#6-ameaças|Ameaça 1 — Compressão de Preço]]). MP não deve competir com Growth em preço ou volume — deve ocupar o espaço que Growth estruturalmente não pode ocupar: premium com identidade e origem. Growth não pode "virar premium do dia para a noite com 3.700 influenciadores de preço".
+
+## Atividade Recente (Intel)
+
+- **2026-04-20**: [Com mega estúdio de transmissão e influenciadores, Growth Supplements estreia no Arnold Classic Brasil - Portal Making Of](https://news.google.com/rss/articles/CBMizAFBVV95cUxQNjRoVkxMdzU2X1MtUmlHWXNJdlMyTi1nMTlsNGFjeVFyMEo1eUZRSkdtR3Roc1VWekZISUVPRWhtOEE2emc2amtzbWJKdDd6ZV82Sk9qdUZTUlRlYXBYSExTMzFZV3ZVeGNoVFFWTDBBbFZYZEtQQXB1VGw3c1R1WWN5cE5NUDYwSmlqeGZSS3pyMXlUMWxmb2dDbGFTZENhaDN2Q1N2Q0hWTzh1UjBuRjJxZHBMRUN2ZjlyWDFLUk5iV19UTGpEOWhlT28?oc=5)

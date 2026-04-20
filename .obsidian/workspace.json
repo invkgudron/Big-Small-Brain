@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "df833afc7a69cb00",
+        "id": "566ee2fc972d182f",
         "type": "tabs",
         "children": [
           {
-            "id": "de5b7d8c99d40829",
+            "id": "0593c0432c6f0636",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Brand/suppliers/glanbia.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "glanbia"
             }
           }
         ]
@@ -190,8 +194,26 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "de5b7d8c99d40829",
+  "active": "0593c0432c6f0636",
   "lastOpenFiles": [
+    "Brand/brand-core.md",
+    "Brand/suppliers/creapure.md",
+    "Brand/suppliers/glanbia.md",
+    "Brand/suppliers",
+    "Content/campaign-01-origem-performance.md",
+    "Research/trends.md",
+    "Research/sales-data.md",
+    "Research/competitors/transparent-labs.md",
+    "System/content-types.md",
+    "Inbox/reports/2026-04-20-daily-intel.md",
+    "Workflows/competitor-marketing-audit-sop.md",
+    "Workflows/_index.md",
+    "_archive/_inbox-processed/2026-04/2026-04-20-daily-intel.md",
+    "Inbox/_unclassified/2026-04-20-daily-intel.md",
+    "Inbox/reports",
+    "Workflows/run-daily-intel.bat",
+    "Workflows/scripts/daily_intel_collector.py",
+    "Workflows/scripts",
     "_archive/_inbox-processed/2026-04/01_PRODUTOS/GARRAFAS_E_ACESSORIOS/FOTOS/MF_produto-155.jpg",
     "_archive/_inbox-processed/2026-04/01_PRODUTOS/GARRAFAS_E_ACESSORIOS/FOTOS/MF_produto-154.jpg",
     "_archive/_inbox-processed/2026-04/01_PRODUTOS/GARRAFAS_E_ACESSORIOS/FOTOS/MF_produto-153.jpg",
@@ -202,17 +224,11 @@
     "_archive/_inbox-processed/2026-04/01_PRODUTOS/GARRAFAS_E_ACESSORIOS/FOTOS/MF_produto-140.jpg",
     "_archive/_inbox-processed/2026-04/01_PRODUTOS/GARRAFAS_E_ACESSORIOS/FOTOS/MF_produto-139.jpg",
     "_archive/_inbox-processed/2026-04/01_PRODUTOS/GARRAFAS_E_ACESSORIOS/FOTOS/MF_produto-138.jpg",
-    "_archive/_inbox-processed/2026-04/01_PRODUTOS/GARRAFAS_E_ACESSORIOS/FOTOS/MF_produto-137.jpg",
     "_archive/_inbox-processed/2026-04/01_PRODUTOS/GARRAFAS_E_ACESSORIOS/FOTOS",
     "_archive/_inbox-processed/2026-04/01_PRODUTOS/GARRAFAS_E_ACESSORIOS",
     "_archive/_inbox-processed/2026-04/01_PRODUTOS/01_PRODUTOS/PRETREINO/LABELS/LABEL_ANABOLIC_TRAINING_MORANGO_ICE.pdf",
     "_archive/_inbox-processed/2026-04/01_PRODUTOS/01_PRODUTOS/PRETREINO/LABELS/LABEL_ANABOLIC_TRAINING_MACA_VERDE.pdf",
     "_archive/_inbox-processed/2026-04/01_PRODUTOS/01_PRODUTOS/WHEY/LABELS/LABEL_MAGNIFIC_WHEY_MORANGO_CHOCOLATE_BRANCO.pdf",
-    "_archive/_inbox-processed/2026-04/01_PRODUTOS/01_PRODUTOS/WHEY/LABELS/LABEL_MAGNIFIC_WHEY_CHOCOLATE_AVELA.pdf",
-    "_archive/_inbox-processed/2026-04/01_PRODUTOS/01_PRODUTOS/MULTIVITAMINA/LABELS/LABEL_MULTI_AZ.pdf",
-    "_archive/_inbox-processed/2026-04/01_PRODUTOS/01_PRODUTOS/LIPO/LABELS/LABEL_LIPOX_HD.pdf",
-    "_archive/_inbox-processed/2026-04/01_PRODUTOS/01_PRODUTOS/GLUTAMIN/LABELS/LABEL_L_GLUTAMINE.pdf",
-    "_archive/_inbox-processed/2026-04/01_PRODUTOS/01_PRODUTOS/CREATINA/LABELS/LABEL_POWER_CREATINE.pdf",
     "Brand/influencer-onboarding.md",
     "Research/competitor-matrix.md",
     "Brand/ingredient-reference.md",
@@ -225,19 +241,7 @@
     "Content/reel-production.md",
     "System/ids.md",
     "CLAUDE.md",
-    "Workflows/_index.md",
     "HEALTH_CHECK_REPORT.md",
-    "SYSTEMS_CHECKUP_REPORT.md",
-    "JARVIS_ARCHITECTURE.md",
-    "System/intent-classifier.md",
-    "System/ingestion-pipeline.md",
-    "System/agent-architecture.md",
-    "Content/decisions-log.md",
-    "Research/competitors/scitec-nutrition.md",
-    "Research/competitors/transparent-labs.md",
-    "Research/competitors/atlhetica-nutrition.md",
-    "Research/competitors/_index.md",
-    "Research/_index.md",
     "Untitled.canvas"
   ]
 }

@@ -1,94 +1,23 @@
 ---
-name: <Nome comercial>
-description: Ficha técnica oficial — <produto> <peso>
-type: product-sheet
+name: Origem da Performance
+description: Campanha 01 — De Onde Vem a Sua Performance?
+type: campaign
 status: active
-date: 2026-04-18
+date: 2026-04-16
 tags:
-  - brand
-  - product-sheet
-  - product/<id>
-sku: MPS####-xx
-barcode: ""
-product_family: <whey|creatine|glutamine|anabolic|lipo|multi>
-flavor:
-weight_g:
-price_brl:
-origin_country:
-supplier:
+  - campaign
+  - content
+  - marketing
 related:
   - "[[Brand/brand-core]]"
-  - "[[Brand/product-catalog]]"
+  - "[[Brand/audience]]"
+  - "[[Research/competitor-intel]]"
+  - "[[Research/instagram-insights]]"
+  - "[[Content/post-history]]"
+  - "[[Content/content-templates]]"
   - "[[Brand/ingredient-reference]]"
+  - "[[Content/calendar]]"
 ---
-
-# <Nome Comercial> — <Peso>
-
-📋 **Technical Specifications**
-
-| Campo | Detalhe |
-|-------|---------|
-| Nome comercial | |
-| Categoria | Suplemento Alimentar em Pó |
-| Subcategoria | |
-| Peso líquido | |
-| SKU | |
-| Código de barras | |
-| Sabor | |
-
----
-
-## 🧪 Informação Nutricional
-
-**Porções por embalagem:**
-**Porção:**
-
-| Componente | Por porção | %VD* |
-|-----------|------------|------|
-| | | |
-
----
-
-## 🧬 Ingredientes
-
----
-
-## ⚙️ Instruções de Uso
-
-**Sugestão de uso:**
-
-**Modo de preparo:**
-
----
-
-## ⚠️ Advertências & Regulatório
-
-- Este produto não é um medicamento.
-- Mantenha fora do alcance de crianças.
-- Não exceder a recomendação diária de consumo.
-- Produto indicado para adultos.
-
-**Alérgicos:**
-
-**Conservação:**
-
----
-
-## 🏭 Fabricação — [[Brand/brand-core]]
-
-| Campo | Detalhe |
-|-------|---------|
-| Fabricado por | Bioghen Suplementos Nutricionais Ltda. |
-| Endereço | R. Julio Prestes de Albuquerque, 212 – Itap. da Serra – SP – CEP: 06853-090 |
-| CNPJ Fabricante | 19.416.061/0001-62 |
-| Resp. Técnico | Dr. Antônio E. da Silva |
-| CRF | CRF/SP 46.897 |
-| Registro ANVISA | Produto em conformidade com a RDC ANVISA 240/2018 |
-| CNPJ Distribuidor | 39.893.591/0001-09 |
-
----
-
-*Fonte: Rótulo oficial — LABEL_<PRODUTO>.pdf | Importado: 18/04/2026*
 # Campanha 01 — "De Onde Vem a Sua Performance?"
 **Medicinal Pharma | Campanha de Posicionamento**
 **Período:** Maio 2026 (4 semanas)
@@ -147,7 +76,7 @@ Aumentar o volume de pedidos mensais de 9 (média Jan–Mar/2026) para **18 pedi
 | # | Mensagem | Prova |
 |---|---------|-------|
 | 1 | A maioria das marcas não te conta de onde vem a matéria-prima | Análise competitiva — nenhum dos 6 concorrentes declara origem |
-| 2 | O Whey MP vem da Glanbia (Irlanda); Creatina da Alemanha; Glutamina do Japão (grau clínico) | `Brand/brand-core.md` — Origens das matérias-primas |
+| 2 | O Whey MP vem da Glanbia (empresa irlandesa com filtragem nos EUA); Creatina Creapure (Alemanha); Glutamina do Japão (grau clínico) | `Brand/brand-core.md` — Origens das matérias-primas |
 | 3 | Rótulo aberto. Doses declaradas. Zero blends proprietários | Fichas técnicas oficiais — todas as doses declaradas individualmente |
 | 4 | Use o cupom do seu afiliado. Primeira compra: PRIMEIRA10 (10% OFF) | `Brand/audience.md` — modelo de cupons |
 
@@ -180,8 +109,8 @@ Aumentar o volume de pedidos mensais de 9 (média Jan–Mar/2026) para **18 pedi
 
 | Ativo | Tipo | Prazo |
 |-------|------|-------|
-| Reel #1 — Origem Whey (Glanbia/Irlanda) | Vídeo 15–25s | 03/05 |
-| Reel #2 — Origem Creatina (Alemanha/micronização) | Vídeo 15–25s | 10/05 |
+| Reel #1 — Origem Whey (Glanbia/USA) | Vídeo 15–25s | 03/05 |
+| Reel #2 — Origem Creatina (Creapure/Alemanha) | Vídeo 15–25s | 10/05 |
 | Reel #3 — Origem Glutamina (Japão/clínico) | Vídeo 15–25s | 17/05 |
 | Carrossel: "Por que a origem importa?" (5 slides) | Carrossel | 06/05 |
 | Carrossel: Transparência vs. proprietary blend (6 slides) | Carrossel | 13/05 |
@@ -266,7 +195,7 @@ Aumentar o volume de pedidos mensais de 9 (média Jan–Mar/2026) para **18 pedi
 
 ## Keywords de Posicionamento
 
-**Origem:** Glanbia · Irlanda · Alemanha · Micronização · Japão · Grau clínico · Matéria-prima importada · Origem rastreável · Fornecedor mundial
+**Origem:** Glanbia · USA · Alemanha · Creapure · Micronização · Japão · Grau clínico · Matéria-prima importada · Origem rastreável · Fornecedor mundial
 
 **Produto:** Whey 3W · Creatina Monohidratada Micronizada · L-Glutamina Premium · Anabolic Training · Lipo-X HD · Dose declarada · Zero blends · ANVISA
 

@@ -69,8 +69,8 @@ tags: [product-catalog, brand]
 | Valina | 1.298 |
 
 #### Origem da Matéria-Prima
-- **Fornecedor:** Glanbia (Irlanda) — maior fornecedor mundial de Whey Protein
-- **País de origem:** Irlanda
+- **Fornecedor:** Glanbia (Irlanda) — Proteína filtrada nos EUA
+- **País de origem:** USA (Origem da Proteína)
 - **Diferencial:** Proteína de alto grau disponível em 3 filtragens: concentrada, isolada e hidrolisada.
 
 - **Tags:** musculação, proteína, whey, whey protein
@@ -126,8 +126,8 @@ tags: [product-catalog, brand]
 | Valina | 1.298 |
 
 #### Origem da Matéria-Prima
-- **Fornecedor:** Glanbia (Irlanda) — maior fornecedor mundial de Whey Protein
-- **País de origem:** Irlanda
+- **Fornecedor:** Glanbia (Irlanda) — Proteína filtrada nos EUA
+- **País de origem:** USA (Origem da Proteína)
 - **Diferencial:** Proteína de alto grau disponível em 3 filtragens: concentrada, isolada e hidrolisada.
 
 - **Tags:** musculação, proteína, whey, whey protein
@@ -238,7 +238,7 @@ tags: [product-catalog, brand]
 *Não contém quantidades significativas de valor energético, carboidratos, proteínas, gorduras totais, fibras alimentares ou sódio. Valor diário não estabelecido para Creatina.*
 
 #### Origem da Matéria-Prima
-- **Fornecedor:** Alemanha
+- **Fornecedor:** Creapure® (AlzChem)
 - **País de origem:** Alemanha
 - **Diferencial:** Processo de micronização reduz o tamanho da partícula em relação à creatina monohidratada comum, garantindo 100% de absorção celular.
 

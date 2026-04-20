@@ -66,7 +66,7 @@ Ver perfil detalhado, dados de compra e rede de afiliados em [[Brand/audience]].
 - Análise competitiva — 6 marcas nacionais + 5 benchmarks internacionais: [[Research/competitor-intel]]
 - Tendências de mercado e ingredientes: [[Research/trends]]
 
-**Insight estratégico (17/04/2026):** O fornecedor do Magnific Whey 3W é a Glanbia plc (Irlanda) — a mesma empresa que fabrica a Optimum Nutrition, maior marca de whey do mundo (US$3,9B em 2025). MP tem origem de classe mundial com preço e narrativa locais. Nenhum concorrente nacional comunica origem de matéria-prima com essa rastreabilidade.
+**Insight estratégico (17/04/2026):** O fornecedor do Magnific Whey 3W é a Glanbia plc (Irlanda) — a mesma empresa que fabrica a Optimum Nutrition. Embora a empresa seja irlandesa, a proteína é filtrada nos EUA. MP tem origem de classe mundial com preço e narrativa locais. Nenhum concorrente nacional comunica origem de matéria-prima com essa rastreabilidade.
 
 ## Instagram
 Ver métricas e análise de vendas em [[Research/instagram-insights]].
