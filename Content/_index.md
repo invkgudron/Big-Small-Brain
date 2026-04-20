@@ -38,7 +38,7 @@ MOC do domínio `Content/`. Produção editorial ativa, templates reutilizáveis
 
 | Arquivo | O que contém |
 |---------|--------------|
-| [[Content/content-templates]] | Templates de carrossel educativo, reel educativo, banco de hooks, framework por produto |
+| [[Content/content-templates]] | MOC para os templates discretos em `Content/templates/` (carrossel, reel, cta, etc) |
 
 ---
 
@@ -62,7 +62,7 @@ MOC do domínio `Content/`. Produção editorial ativa, templates reutilizáveis
 ## Invariantes
 
 1. **Posts publicados** são **seções** em `post-history.md`, não arquivos separados
-2. **Templates** são **seções** em `content-templates.md`, não arquivos separados
+2. **Templates** residem discretamente no subdiretório `Content/templates/` para ingestão modular de agentes
 3. Novos posts referenciam template usado + produto(s) + campanha (se aplicável)
 4. Toda decisão registrada em [[Content/decisions-log]] com data e motivo
 5. Todo erro registrado em [[Content/issues-log]] com ID sequencial

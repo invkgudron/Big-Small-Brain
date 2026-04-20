@@ -1,3 +1,12 @@
+---
+name: "Issues Log — Medicinal Pharma Brain"
+description: Auto-generated frontmatter retrofit
+type: issue-log
+status: active
+date: 2026-04-20
+tags: [issue-log, content]
+---
+
 # Issues Log — Medicinal Pharma Brain
 
 Registro de erros, inconsistências e pendências encontradas no vault.

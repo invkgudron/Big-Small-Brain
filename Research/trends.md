@@ -1,3 +1,12 @@
+---
+name: "Research/trends.md — Tendências de Mercado"
+description: Auto-generated frontmatter retrofit
+type: trends
+status: active
+date: 2026-04-20
+tags: [trends, research]
+---
+
 # Research/trends.md — Tendências de Mercado
 **Medicinal Pharma | Monitoramento contínuo**
 

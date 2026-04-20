@@ -1,3 +1,12 @@
+---
+name: "Questionário de Onboarding — Posicionamento de Marca & Expectativas"
+description: Auto-generated frontmatter retrofit
+type: survey
+status: active
+date: 2026-04-20
+tags: [survey, research]
+---
+
 # Questionário de Onboarding — Posicionamento de Marca & Expectativas
 **Medicinal Pharma | Formulário para Investidores e Stakeholders**
 **Plataforma:** Google Forms

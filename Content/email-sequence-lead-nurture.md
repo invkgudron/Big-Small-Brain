@@ -1,3 +1,12 @@
+---
+name: "Sequência de E-mail — Lead Nurture"
+description: Auto-generated frontmatter retrofit
+type: email-sequence
+status: active
+date: 2026-04-20
+tags: [email-sequence, content]
+---
+
 # Sequência de E-mail — Lead Nurture
 **Medicinal Pharma | mpoficial.com**
 **Tipo:** Lead Nurture · **Objetivo:** Primeira compra · **Público:** Novos leads (praticantes de academia, 20–35 anos)

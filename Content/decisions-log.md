@@ -1,3 +1,12 @@
+---
+name: "Decisions Log"
+description: Auto-generated frontmatter retrofit
+type: decision-log
+status: active
+date: 2026-04-20
+tags: [decision-log, content]
+---
+
 # Decisions Log
 
 ## 19/04/2026 — Split de `competitor-intel.md` em 11 perfis individuais + matriz gerada

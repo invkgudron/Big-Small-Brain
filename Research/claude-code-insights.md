@@ -1,3 +1,12 @@
+---
+name: "Claude Code Insights — Medicinal Pharma Brain"
+description: Auto-generated frontmatter retrofit
+type: unclassified
+status: active
+date: 2026-04-20
+tags: [research]
+---
+
 # Claude Code Insights — Medicinal Pharma Brain
 
 **Gerado em:** 17/04/2026

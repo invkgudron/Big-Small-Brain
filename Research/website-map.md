@@ -1,3 +1,12 @@
+---
+name: "Website Map — mpoficial.com"
+description: Auto-generated frontmatter retrofit
+type: reference
+status: active
+date: 2026-04-20
+tags: [reference, research]
+---
+
 # Website Map — mpoficial.com
 **Extraído via browser em:** 16/04/2026
 **Plataforma:** Nuvemshop

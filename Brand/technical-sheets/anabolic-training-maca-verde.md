@@ -1,3 +1,12 @@
+---
+name: "Anabolic Training Extreme Pre Workout — Maçã Verde Ice"
+description: Auto-generated frontmatter retrofit
+type: product-sheet
+status: active
+date: 2026-04-20
+tags: [product-sheet, product]
+---
+
 # Anabolic Training Extreme Pre Workout — Maçã Verde Ice
 📋 **Technical Specifications**
 

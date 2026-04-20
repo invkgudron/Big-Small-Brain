@@ -1,3 +1,12 @@
+---
+name: "Systems Checkup Report — Medicinal Pharma Brain"
+description: Auto-generated frontmatter retrofit
+type: audit
+status: active
+date: 2026-04-20
+tags: [audit, system]
+---
+
 # Systems Checkup Report — Medicinal Pharma Brain
 **Data do diagnóstico:** 18/04/2026
 **Responsável:** Claude (Data Systems Engineer)

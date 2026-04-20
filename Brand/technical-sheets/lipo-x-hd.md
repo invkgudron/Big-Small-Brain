@@ -1,3 +1,12 @@
+---
+name: "LIPO-X HD Thermogênico"
+description: Auto-generated frontmatter retrofit
+type: product-sheet
+status: active
+date: 2026-04-20
+tags: [product-sheet, product]
+---
+
 # LIPO-X HD Thermogênico
 📋 **Technical Specifications**
 

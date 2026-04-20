@@ -1,3 +1,12 @@
+---
+name: "Magnific Whey Gourmet 3W — Morango e Chocolate Branco"
+description: Auto-generated frontmatter retrofit
+type: product-sheet
+status: active
+date: 2026-04-20
+tags: [product-sheet, product]
+---
+
 # Magnific Whey Gourmet 3W — Morango e Chocolate Branco
 📋 **Technical Specifications**
 

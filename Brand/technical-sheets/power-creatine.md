@@ -1,3 +1,12 @@
+---
+name: "Power Creatine Micronized — 300g"
+description: Auto-generated frontmatter retrofit
+type: product-sheet
+status: active
+date: 2026-04-20
+tags: [product-sheet, product]
+---
+
 # Power Creatine Micronized — 300g
 📋 **Technical Specifications**
 

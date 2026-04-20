@@ -1,3 +1,12 @@
+---
+name: "Sales Data — Medicinal Pharma"
+description: Auto-generated frontmatter retrofit
+type: sales-data
+status: active
+date: 2026-04-20
+tags: [sales-data, research]
+---
+
 # Sales Data — Medicinal Pharma
 
 **Fonte:** Exportação Nuvem Shop (CSV)

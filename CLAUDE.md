@@ -1,3 +1,12 @@
+---
+name: "Claude Behavior Rules — Medicinal Pharma"
+description: Auto-generated frontmatter retrofit
+type: system
+status: active
+date: 2026-04-20
+tags: [system]
+---
+
 # Claude Behavior Rules — Medicinal Pharma
 
 ## Interpretação de Comandos

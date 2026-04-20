@@ -1,3 +1,12 @@
+---
+name: "Calendário de Conteúdo — Maio 2026"
+description: Auto-generated frontmatter retrofit
+type: calendar
+status: active
+date: 2026-04-20
+tags: [calendar, content]
+---
+
 # Calendário de Conteúdo — Maio 2026
 **Medicinal Pharma | Campanha "De Onde Vem a Sua Performance?"**
 **Atualizado:** 16/04/2026

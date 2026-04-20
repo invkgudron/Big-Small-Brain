@@ -1,3 +1,12 @@
+---
+name: "Catálogo de Produtos — Medicinal Pharma"
+description: Auto-generated frontmatter retrofit
+type: product-catalog
+status: active
+date: 2026-04-20
+tags: [product-catalog, brand]
+---
+
 # Catálogo de Produtos — Medicinal Pharma
 
 **Fonte:** Exportação Nuvem Shop (CSV de produtos)

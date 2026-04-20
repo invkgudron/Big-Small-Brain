@@ -1,3 +1,12 @@
+---
+name: "Elite Performance — Medicinal Pharma Custom Theme"
+description: Auto-generated frontmatter retrofit
+type: theme
+status: active
+date: 2026-04-20
+tags: [theme, brand]
+---
+
 # Elite Performance — Medicinal Pharma Custom Theme
 
 > Tema oficial da marca Medicinal Pharma para uso em apresentações, decks, carrosséis, templates de e-mail e qualquer entregável visual da marca.

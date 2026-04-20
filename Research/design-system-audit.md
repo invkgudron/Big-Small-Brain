@@ -1,3 +1,12 @@
+---
+name: "Design System Audit — Medicinal Pharma"
+description: Auto-generated frontmatter retrofit
+type: audit
+status: active
+date: 2026-04-20
+tags: [audit, research]
+---
+
 # Design System Audit — Medicinal Pharma
 **Data:** 17/04/2026 | Gerado por Claude / Cowork (skill: design:design-system)
 

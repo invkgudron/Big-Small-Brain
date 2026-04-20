@@ -1,3 +1,12 @@
+---
+name: "Multi AZ — Extreme Multi Vitaminic — 60 Cápsulas"
+description: Auto-generated frontmatter retrofit
+type: product-sheet
+status: active
+date: 2026-04-20
+tags: [product-sheet, product]
+---
+
 # Multi AZ — Extreme Multi Vitaminic — 60 Cápsulas
 📋 **Technical Specifications**
 

@@ -1,3 +1,12 @@
+---
+name: "Referência de Ingredientes — Análise Nutricional Esportiva"
+description: Auto-generated frontmatter retrofit
+type: ingredient-reference
+status: active
+date: 2026-04-20
+tags: [ingredient-reference, brand]
+---
+
 # Referência de Ingredientes — Análise Nutricional Esportiva
 **Medicinal Pharma | Elaborado sob perspectiva de nutrição esportiva clínica**
 **Base:** Fichas técnicas oficiais dos 8 produtos + literatura científica indexada
