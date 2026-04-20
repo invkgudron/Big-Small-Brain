@@ -196,6 +196,9 @@
   },
   "active": "0593c0432c6f0636",
   "lastOpenFiles": [
+    "assets/hero.png",
+    "assets",
+    "README.md",
     "Brand/brand-core.md",
     "Brand/suppliers/creapure.md",
     "Brand/suppliers/glanbia.md",
@@ -228,7 +231,6 @@
     "_archive/_inbox-processed/2026-04/01_PRODUTOS/GARRAFAS_E_ACESSORIOS",
     "_archive/_inbox-processed/2026-04/01_PRODUTOS/01_PRODUTOS/PRETREINO/LABELS/LABEL_ANABOLIC_TRAINING_MORANGO_ICE.pdf",
     "_archive/_inbox-processed/2026-04/01_PRODUTOS/01_PRODUTOS/PRETREINO/LABELS/LABEL_ANABOLIC_TRAINING_MACA_VERDE.pdf",
-    "_archive/_inbox-processed/2026-04/01_PRODUTOS/01_PRODUTOS/WHEY/LABELS/LABEL_MAGNIFIC_WHEY_MORANGO_CHOCOLATE_BRANCO.pdf",
     "Brand/influencer-onboarding.md",
     "Research/competitor-matrix.md",
     "Brand/ingredient-reference.md",
@@ -240,8 +242,6 @@
     "Workflows/freepik-prompts.md",
     "Content/reel-production.md",
     "System/ids.md",
-    "CLAUDE.md",
-    "HEALTH_CHECK_REPORT.md",
     "Untitled.canvas"
   ]
 }
