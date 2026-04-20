@@ -200,7 +200,7 @@ Esse é o **Kit Ganho Extremo** — o stack favorito de quem treina sério.
 
 Números são fáceis de inventar. Resultados reais, não.
 
-A Fabiana comprou o Lipo-X HD pela primeira vez em janeiro. 70 dias depois, voltou e comprou de novo — mesmo com o preço aumentado.
+Uma cliente nossa comprou o Lipo-X HD pela primeira vez em janeiro. 70 dias depois, voltou e comprou de novo — mesmo com o preço aumentado.
 
 Não é fidelidade cega. É resultado que justifica.
 

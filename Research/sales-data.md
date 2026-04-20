@@ -36,35 +36,35 @@ related:
 
 | Pedido | Data | Comprador | Cidade/Estado | Produto(s) | Total | Pagamento | Cupom |
 |--------|------|-----------|---------------|------------|-------|-----------|-------|
-| 145 | 01/04/2026 | Aldo Vasconcelos | São Paulo/SP | Whey 3W Morango e Choc Branco 900g | R$ 215,13 | Pix | GERSON15 |
-| 144 | 31/03/2026 | Fabiana Matutino | São Paulo/SP | Lipo-X HD Termogênico 90 cáps | R$ 152,37 | Cartão Visa | — |
-| 142 | 22/03/2026 | Vinicius Santos | Santo André/SP | Pré Treino Anabolic Training Morango Ice + Kit Multivitamínico+Glutamina | R$ 332,95 | Cartão Visa | PAULOLIMAMR |
-| 141 | 13/03/2026 | Luan Augusto | Sabará/MG | Multivitamínico AZ 60 cáps | R$ 89,30 | Pix | BH10 |
-| 140 | 13/03/2026 | Alisson Godinho | Belo Horizonte/MG | Whey 3W Morango e Choc Branco 900g | R$ 228,24 | Pix | BH10 |
-| 139 | 12/03/2026 | Denis Rodrigues | São Bernardo do Campo/SP | Creatina Micronizada 300g | R$ 124,89 | Pix | DENISJIUJITSU |
-| 138 | 12/03/2026 | Paulo Trindade | São Bernardo do Campo/SP | Whey 3W Morango e Choc Branco 900g | R$ 244,19 | Cartão Visa | GENIUM |
-| 137 | 10/03/2026 | Uber Mateus | Ribeirão Pires/SP | Creatina Micronizada 300g + Multivitamínico AZ 60 cáps | R$ 192,04 | Cartão Mastercard | — |
-| 136 | 07/03/2026 | Beatriz Tomaselli | São Paulo/SP | Multivitamínico AZ + Kit Whey 3W Morango+Creatina | R$ 328,56 | Cartão Visa | RAFA15 |
-| 135 | 27/02/2026 | Leandro Zuber | Barrinha/SP | Whey 3W Morango e Choc Branco 900g | R$ 200,36 | Pix | OITAVA |
-| 134 | 23/02/2026 | Luiz Felipe | São Paulo/SP | Lipo-X HD Thermogenic 90 cáps | R$ 145,95 | Pix | — |
-| 133 | 22/02/2026 | Marcelo Kanesiro | São Paulo/SP | Multivitamínico AZ 60 cáps | R$ 56,61 | Pix | — |
-| 131 | 12/02/2026 | Tuane Silva | Santana de Parnaíba/SP | Creatina Micronizada 300g + Multivitamínico AZ 60 cáps | R$ 169,34 | Pix | ADRIANO_SIMPSONPERSONAL |
-| 130 | 12/02/2026 | Heidy Rezende | Barueri/SP | Creatina Micronizada 300g | R$ 107,92 | Pix | ADRIANO_SIMPSONPERSONAL |
-| 129 | 10/02/2026 | Messias Santos | Ferraz de Vasconcelos/SP | Whey 3W Chocolate com Avelã 900g | R$ 174,59 | Cartão Mastercard | OITAVA |
-| 128 | 07/02/2026 | Sergio Antônio Chagas | São Luiz Gonzaga/RS | Whey 3W Chocolate com Avelã 900g | R$ 174,06 | Pix | OITAVA |
-| 126 | 05/02/2026 | Marcelo Barbieri | Jaboticabal/SP | Creatina + Kit Pré Treino+Lipo X + Kit Whey Choc+Creatina+Lipo X | R$ 649,17 | Cartão Mastercard | OITAVA |
-| 125 | 02/02/2026 | César Ouchida | São Paulo/SP | Whey 3W Chocolate com Avelã + Pré Treino Maçã Verde Ice | R$ 304,20 | Cartão Visa | LIPE |
-| 123 | 27/01/2026 | Rosemeire Da Silva | São Bernardo do Campo/SP | Lipo-X HD Thermogenic + Kit Multivitamínico+Glutamina | R$ 271,63 | Pix | — |
-| 122 | 23/01/2026 | Flávio Barbosa | São Paulo/SP | Kit Whey Choc Avelã+Creatina+Glutamina | R$ 317,62 | Pix | RAFA15 |
-| 120 | 23/01/2026 | Giovani Lima | São Bernardo do Campo/SP | Creatina Micronizada 300g | R$ 108,24 | Pix | VITOR08 |
-| 119 | 19/01/2026 | Fabiana Matutino | São Paulo/SP | Lipo-X HD Thermogenic 90 cáps | R$ 104,59 | Pix | PRIMEIRA10 |
-| 118 | 16/01/2026 | Omar Jarouche | São Bernardo do Campo/SP | Pré Treino Anabolic Training Morango Ice | R$ 125,72 | Pix | PAULOLIMAMR |
-| 117 | 12/01/2026 | Leticia Fedato | Jaboticabal/SP | Whey 3W Morango e Choc Branco + Lipo-X HD Thermogenic | R$ 316,38 | Cartão Mastercard | — |
-| 116 | 05/01/2026 | Renata Rios | Indaiatuba/SP | Lipo-X HD Thermogenic x2 | R$ 190,94 | Pix | RAFA15 |
-| 114 | 04/01/2026 | Andreia Barbosa | Mauá/SP | Pré Treino Anabolic Training Maçã Verde Ice | R$ 125,72 | Pix | BREJACOB |
-| 113 | 31/12/2025 | Michele Dias | Santo André/SP | Whey 3W Morango + Creatina + Pré Treino Maçã Verde Ice | R$ 410,27 | Cartão Mastercard | BREJACOB |
-| 112 | 31/12/2025 | Bruna Morales | Mauá/SP | Whey 3W Morango + Pré Treino Morango Ice | R$ 309,28 | Cartão Mastercard | BREJACOB |
-| 111 | 06/12/2025 | Julio Melges | São Caetano do Sul/SP | Whey 3W Chocolate com Avelã + Creatina Micronizada | R$ 277,47 | Pix | VITOR08 |
+| 145 | 01/04/2026 | Cliente #145 | São Paulo/SP | Whey 3W Morango e Choc Branco 900g | R$ 215,13 | Pix | GERSON15 |
+| 144 | 31/03/2026 | Cliente #144 | São Paulo/SP | Lipo-X HD Termogênico 90 cáps | R$ 152,37 | Cartão Visa | — |
+| 142 | 22/03/2026 | Cliente #142 | Santo André/SP | Pré Treino Anabolic Training Morango Ice + Kit Multivitamínico+Glutamina | R$ 332,95 | Cartão Visa | PAULOLIMAMR |
+| 141 | 13/03/2026 | Cliente #141 | Sabará/MG | Multivitamínico AZ 60 cáps | R$ 89,30 | Pix | BH10 |
+| 140 | 13/03/2026 | Cliente #140 | Belo Horizonte/MG | Whey 3W Morango e Choc Branco 900g | R$ 228,24 | Pix | BH10 |
+| 139 | 12/03/2026 | Cliente #139 | São Bernardo do Campo/SP | Creatina Micronizada 300g | R$ 124,89 | Pix | DENISJIUJITSU |
+| 138 | 12/03/2026 | Cliente #138 | São Bernardo do Campo/SP | Whey 3W Morango e Choc Branco 900g | R$ 244,19 | Cartão Visa | GENIUM |
+| 137 | 10/03/2026 | Cliente #137 | Ribeirão Pires/SP | Creatina Micronizada 300g + Multivitamínico AZ 60 cáps | R$ 192,04 | Cartão Mastercard | — |
+| 136 | 07/03/2026 | Cliente #136 | São Paulo/SP | Multivitamínico AZ + Kit Whey 3W Morango+Creatina | R$ 328,56 | Cartão Visa | RAFA15 |
+| 135 | 27/02/2026 | Cliente #135 | Barrinha/SP | Whey 3W Morango e Choc Branco 900g | R$ 200,36 | Pix | OITAVA |
+| 134 | 23/02/2026 | Cliente #134 | São Paulo/SP | Lipo-X HD Thermogenic 90 cáps | R$ 145,95 | Pix | — |
+| 133 | 22/02/2026 | Cliente #133 | São Paulo/SP | Multivitamínico AZ 60 cáps | R$ 56,61 | Pix | — |
+| 131 | 12/02/2026 | Cliente #131 | Santana de Parnaíba/SP | Creatina Micronizada 300g + Multivitamínico AZ 60 cáps | R$ 169,34 | Pix | ADRIANO_SIMPSONPERSONAL |
+| 130 | 12/02/2026 | Cliente #130 | Barueri/SP | Creatina Micronizada 300g | R$ 107,92 | Pix | ADRIANO_SIMPSONPERSONAL |
+| 129 | 10/02/2026 | Cliente #129 | Ferraz de Vasconcelos/SP | Whey 3W Chocolate com Avelã 900g | R$ 174,59 | Cartão Mastercard | OITAVA |
+| 128 | 07/02/2026 | Cliente #128 | São Luiz Gonzaga/RS | Whey 3W Chocolate com Avelã 900g | R$ 174,06 | Pix | OITAVA |
+| 126 | 05/02/2026 | Cliente #126 | Jaboticabal/SP | Creatina + Kit Pré Treino+Lipo X + Kit Whey Choc+Creatina+Lipo X | R$ 649,17 | Cartão Mastercard | OITAVA |
+| 125 | 02/02/2026 | Cliente #125 | São Paulo/SP | Whey 3W Chocolate com Avelã + Pré Treino Maçã Verde Ice | R$ 304,20 | Cartão Visa | LIPE |
+| 123 | 27/01/2026 | Cliente #123 | São Bernardo do Campo/SP | Lipo-X HD Thermogenic + Kit Multivitamínico+Glutamina | R$ 271,63 | Pix | — |
+| 122 | 23/01/2026 | Cliente #122 | São Paulo/SP | Kit Whey Choc Avelã+Creatina+Glutamina | R$ 317,62 | Pix | RAFA15 |
+| 120 | 23/01/2026 | Cliente #120 | São Bernardo do Campo/SP | Creatina Micronizada 300g | R$ 108,24 | Pix | VITOR08 |
+| 119 | 19/01/2026 | Cliente #119 | São Paulo/SP | Lipo-X HD Thermogenic 90 cáps | R$ 104,59 | Pix | PRIMEIRA10 |
+| 118 | 16/01/2026 | Cliente #118 | São Bernardo do Campo/SP | Pré Treino Anabolic Training Morango Ice | R$ 125,72 | Pix | PAULOLIMAMR |
+| 117 | 12/01/2026 | Cliente #117 | Jaboticabal/SP | Whey 3W Morango e Choc Branco + Lipo-X HD Thermogenic | R$ 316,38 | Cartão Mastercard | — |
+| 116 | 05/01/2026 | Cliente #116 | Indaiatuba/SP | Lipo-X HD Thermogenic x2 | R$ 190,94 | Pix | RAFA15 |
+| 114 | 04/01/2026 | Cliente #114 | Mauá/SP | Pré Treino Anabolic Training Maçã Verde Ice | R$ 125,72 | Pix | BREJACOB |
+| 113 | 31/12/2025 | Cliente #113 | Santo André/SP | Whey 3W Morango + Creatina + Pré Treino Maçã Verde Ice | R$ 410,27 | Cartão Mastercard | BREJACOB |
+| 112 | 31/12/2025 | Cliente #112 | Mauá/SP | Whey 3W Morango + Pré Treino Morango Ice | R$ 309,28 | Cartão Mastercard | BREJACOB |
+| 111 | 06/12/2025 | Cliente #111 | São Caetano do Sul/SP | Whey 3W Chocolate com Avelã + Creatina Micronizada | R$ 277,47 | Pix | VITOR08 |
 
 ---
 
@@ -181,6 +181,7 @@ related:
 
 | Cliente | 1ª Compra | 2ª Compra | Produto | Intervalo |
 |---------|-----------|-----------|---------|-----------|
-| Fabiana Matutino | #119 — 19/01/2026 (Lipo-X R$109,90) | #144 — 31/03/2026 (Lipo-X R$139,90) | Lipo-X HD | ~70 dias |
+| Cliente #119 | #119 — 19/01/2026 (Lipo-X R$109,90) | #144 — 31/03/2026 (Lipo-X R$139,90) | Lipo-X HD | ~70 dias |
 
 > Alta lealdade ao produto mesmo com aumento de preço de R$109,90 para R$139,90 (+27%).
+

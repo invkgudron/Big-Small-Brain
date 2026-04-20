@@ -1,0 +1,31 @@
+# Obsidian Workspace Files
+.obsidian/workspace
+.obsidian/workspace-mobile
+.obsidian/workspace.json
+
+# Vault Ingestor Processing Directories
+# Keeps uploaded payloads out of git completely
+Inbox/_raw/
+Inbox/_unclassified/
+
+# Processed Archives
+# Large original sources that the ingestor has already consumed/archived
+_archive/_inbox-processed/
+
+# Heavy Media / Uploaded Files (Global Ignore)
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.webp
+*.mp4
+*.mov
+*.avi
+*.pdf
+*.zip
+*.rar
+*.csv
+*.xlsx
+*.xls
+*.doc
+*.docx

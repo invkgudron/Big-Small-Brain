@@ -27,6 +27,7 @@ Atualizar o status à medida que os itens forem resolvidos.
 | 003 | 16/04/2026 | [[Brand/brand-core]] | **Fabricante** dos produtos não constava no vault. Todos os 8 produtos são fabricados por **Bioghen Suplementos Nutricionais Ltda** (CNPJ: 19.416.061/0001-62) | Adicionado em brand-core | ✅ Corrigido |
 | 004 | 16/04/2026 | [[Brand/brand-core]], [[Brand/product-catalog]] | **Perfil completo de aminoácidos** do Whey ausente (18 aminoácidos com valores em mg) | Adicionado nas fichas técnicas e brand-core | ✅ Corrigido |
 | 005 | 16/04/2026 | [[Brand/brand-core]], [[Brand/product-catalog]] | **Valores nutricionais exatos** do Whey ausentes (kcal, carbs, gordura, sódio por porção) | Adicionado nas fichas técnicas | ✅ Corrigido |
+| 013 | 20/04/2026 | `Inbox/_unclassified/`          | **Entidade não canônica**: Imagens detectadas para `GARRAFAS_E_ACESSORIOS`, mas não há ID listado em `System/ids.md`.                                        | ID canônico criado no dict e metadados base de histórico para acessórios configurados. Ingestão liberada.                                                                                                                        | ✅ Corrigido    |
 
 ---
 

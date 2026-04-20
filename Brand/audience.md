@@ -32,7 +32,7 @@ related:
 **Dinâmica de funil:**
 1. Atleta/afiliado usa, posta e recomenda
 2. Novo membro entra com cupom de confiança
-3. Produto cumpre — fidelização (ex: Fabiana Matutino, 2 compras em 70 dias)
+3. Produto cumpre — fidelização (ex: [Estudo de Caso Anonimizado], 2 compras em 70 dias)
 4. Alguns novos membros tornam-se afiliados — ciclo se renova
 
 ## Dados de Compra (CSV — Dez/2025 a Abr/2026)
@@ -76,6 +76,6 @@ Ver análise completa em [[Research/sales-data]].
 
 - **59% dos pedidos usam cupom de afiliado** — a comunidade e os parceiros são o principal canal de aquisição
 - Kits e combos com boa adesão (Kit Ganho, Kit Definição, Kit Recuperação)
-- **Recompra confirmada:** Fabiana Matutino (pedidos #119 Jan/2026 e #144 Mar/2026) — fidelidade ao Lipo-X mesmo com aumento de preço de R$109,90 → R$139,90
+- **Recompra confirmada:** [Estudo de Caso Anonimizado] (pedidos #119 Jan/2026 e #144 Mar/2026) — fidelidade ao Lipo-X mesmo com aumento de preço de R$109,90 → R$139,90
 - Clientes do interior compram via Mobile com cupons de afiliados regionais (BH10 para MG)
 - Pedidos maiores (R$300–650) associados a clientes com cupons de alta confiança (OITAVA, BREJACOB)

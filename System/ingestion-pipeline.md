@@ -23,6 +23,7 @@ Antes de classificar, **sempre**:
    → Regra já existente em `CLAUDE.md` — obrigatória para CSVs BR/PT.
 2. **Contar linhas/registros** e reportar ao usuário.
 3. **Extrair metadados técnicos** — tamanho, tipo MIME, data de modificação.
+4. **🔴 SCRUB DE PII (GDPR/LGPD)** — Se o conteúdo contiver nomes reais de clientes, endereços completos ou e-mails originários de extratos financeiros (como Nuvemshop), substitua-os imediatamente por identificadores anônimos (`Cliente Anonimizado`, `Cliente #123`) ANTES de sintetizar os dados em qualquer Markdown do Vault. Nomes reais são estritamente proibidos em plain-text.
 
 ---
 

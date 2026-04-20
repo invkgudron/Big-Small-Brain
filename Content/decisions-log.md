@@ -11,6 +11,20 @@ related:
 
 # Decisions Log
 
+## 20/04/2026 — Integração de Merchandising/Acessórios no Dicionário Canônico
+
+**Decisão:** Expandir o dicionário canônico (`System/ids.md`) para suportar itens físicos da marca que não são suplementos nutricionais, criando a sub-categoria `1.1 Acessórios`, a fim de classificar assets visuais recuperados no Vault Ingestor.
+
+**Arquivos atualizados:**
+- `System/ids.md` — novo ID canônico `acessorio-garrafa-mp` adicionado.
+- `Brand/product-catalog.md` — nova seção `Acessórios e Merchandising` criada para registro histórico, isolando do catálogo nutricional central.
+- `Content/issues-log.md` — Issue 013 (entidade não canônica de garrafas) resolvida.
+- `_archive/_inbox-processed/...` — assets originais de GARRAFAS tirados de quarentena.
+
+**Motivo:** Usuário confirmou que "The bottles are part of the brand, we made them for some time... we might make them again". Para não quebrar o graph-view e a limpeza dos types (suplemento vs não-suplemento), criamos uma sub-categoria e tags próprias (`#accessory/garrafa-mp`). Isso permite que os assets vivam no vault e agreguem ao brand-core sem interferir nos scripts de cálculo nutricional.
+
+---
+
 ## 19/04/2026 — Split de `competitor-intel.md` em 11 perfis individuais + matriz gerada
 
 **Decisão:** Executar o P0 #2 do Health Check — quebrar `Research/competitor-intel.md` (697 linhas, 49KB — 1 arquivo monolítico com 11 marcas + análise) em estrutura granular que respeita o princípio "1 arquivo = 1 entidade".
@@ -238,7 +252,7 @@ Exemplo: "Cafeína bloqueia receptores de adenosina" → "Você não sente a fad
 - E-mail 1 (Dia 0): Educação — por que 80% não evolui na academia
 - E-mail 2 (Dia 3): Diferencial de matéria-prima + Magnific Whey 3W
 - E-mail 3 (Dia 7): Stack de profissionais + apresentação dos 3 Kits
-- E-mail 4 (Dia 11): Prova social real (Fabiana Matutino + Lipo-X HD)
+- E-mail 4 (Dia 11): Prova social real (Cliente Anonimizado + Lipo-X HD)
 - E-mail 5 (Dia 17): Remoção de objeções (preço, confiança, SAC)
 - E-mail 6 (Dia 21): Urgência + cupom PRIMEIRA10 expira hoje
 
@@ -474,4 +488,4 @@ Exemplo: "Cafeína bloqueia receptores de adenosina" → "Você não sente a fad
 - ABC Paulista = 34% das vendas (SBC, Santo André, Mauá, São Caetano)
 - OITAVA é o afiliado de maior volume (4 pedidos, R$1.198 em receita)
 - Preços subiram até 80% (Multivitamínico) sem queda observável de demanda
-- 1 recompra confirmada: Fabiana Matutino — Lipo-X (2x em ~70 dias)
+- 1 recompra confirmada: Cliente Anônimo — Lipo-X (2x em ~70 dias)

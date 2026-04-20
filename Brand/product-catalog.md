@@ -455,3 +455,17 @@ tags: [product-catalog, brand]
 | Recuperação Muscular e Imunidade | Glutamina, Multivitamínico, Kits com Glutamina |
 | Energia e Desempenho no Treino | Pré Treino, Creatina, Multivitamínico |
 | Saúde e Bem-estar | Multivitamínico, Glutamina, Kits supply 3 meses |
+
+---
+
+## Acessórios e Merchandising
+
+> Itens físicos institucionais da marca, atualmente sem comercialização ativa, operando como registro histórico e potencial brinde.
+
+### GARRAFA SHAKER MEDICINAL PHARMA
+- **SKU:** —
+- **Categorias:** Acessórios > Garrafas
+- **Objetivos:** Identidade Visual, Brindes, Cross-sell
+- **ID Canônico:** [[acessorio-garrafa-mp]]
+- **Assets Fonte:** `_archive/_inbox-processed/2026-04/01_PRODUTOS/GARRAFAS_E_ACESSORIOS`
+- **Status:** Fora de catálogo ativo (Histórico).

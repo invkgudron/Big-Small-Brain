@@ -28,6 +28,12 @@ Toda entidade referenciada no vault tem **um** ID canônico. Sinônimos não cri
 | `l-glutamine` | MPS0005 | L-Glutamine Premium | Glutamina, Glutamine | [[Brand/technical-sheets/l-glutamine]] |
 | `power-creatine` | MPS0006 | Power Creatine Micronized | Creatina, Power Creatina, Creatina Micronizada | [[Brand/technical-sheets/power-creatine]] |
 
+### 1.1 Acessórios
+
+| ID canônico | SKU | Nome comercial | Aliases aceitos | Arquivo |
+|-------------|-----|----------------|-----------------|---------|
+| `acessorio-garrafa-mp` | — | Garrafa Medicinal Pharma | Garrafa, Shaker MP | `_archive/_inbox-processed/2026-04/01_PRODUTOS/GARRAFAS_E_ACESSORIOS` |
+
 ### Famílias de produto
 - `whey-3w` → família (inclui whey-choc-avela + whey-morango)
 - `creatine` → família (power-creatine)

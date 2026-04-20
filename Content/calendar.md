@@ -124,7 +124,7 @@ UGC afiliados afiliados    Seja afiliado atleta      final
 | 17/05 | Sab | — | — | — | — | — | — |
 | 18/05 | Dom | — | — | — | — | — | — |
 | 19/05 | Seg | 🎬 **Reel #3 — Origem L-Glutamine** | Feed + Reels | Reel 20–25s | *"Glutamina? A nossa vem do Japão. Grau clínico. A mesma usada em hospitais."* → barreira intestinal + imunidade pós-treino | Link bio → L-Glutamine / Kit Recuperação | ⬜ |
-| 20/05 | Ter | 🔁 **Story: depoimento de recompra** — referência ao padrão Fabiana Matutino (Lipo-X, 70 dias, voltou mesmo com +27% de aumento) | Stories | Print anonimizado ou texto | "Preço subiu. Ela voltou mesmo assim. Por quê? Porque resultado não tem substituto." | Link Lipo-X HD | ⬜ |
+| 20/05 | Ter | 🔁 **Story: depoimento de recompra** — referência ao padrão Cliente Fiel (Lipo-X, 70 dias, voltou mesmo com +27% de aumento) | Stories | Print anonimizado ou texto | "Preço subiu. Ela voltou mesmo assim. Por quê? Porque resultado não tem substituto." | Link Lipo-X HD | ⬜ |
 | 21/05 | Qua | 🎠 **Carrossel: Stack Ganho Extremo — protocolo completo** (7 slides) | Feed | Carrossel | S1: "Quer ganhar massa de verdade? Existe uma ordem certa para tomar cada coisa." → S2–6: Whey+Creatina+Anabolic Training com timing e mecanismo → S7: Kit + CTA | Kit Ganho Extremo | ⬜ |
 | 22/05 | Qui | 📸 **Post: Kit Definição Absoluta — o que entra e por quê** | Feed | Card único | "Lipo-X HD + Multi AZ. Metabolismo acelerado + imunidade preservada. Déficit calórico sem pagar o preço com a saúde." | Kit Definição Absoluta | ⬜ |
 | 23/05 | Sex | 🔁 **Story: CTA com cupom de afiliado** — "Compre com o cupom do seu personal e ganhe desconto" | Stories | Sticker de link + arte | Listar 3 cupons ativos de afiliados parceiros | Cupom → Nuvemshop | ⬜ |
