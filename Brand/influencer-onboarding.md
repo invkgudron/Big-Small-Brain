@@ -66,9 +66,7 @@ Aqui estão as regras invioláveis de onde o seu **CUPOM DE DESCONTO** oficial p
 
 Aqui estão TODOS os ingredientes ativos de cada produto. O jogo é: abra o pacote que você vai filmar hoje, escolha **apenas 1 a 2 ingredientes principais** listados aqui, pegue esse dado e transforme em um Reel!
 
-<details>
-<summary><b>1. Magnific Whey Gourmet 3W 🍫</b></summary>
-<br>
+### 1. Magnific Whey Gourmet 3W 🍫
 
 **O que é:** Proteína 3W (Concentrada + Isolada + Hidrolisada) com sabor premium mundial.
 **Sabores Disponíveis:** Morango com Chocolate Branco | Chocolate com Avelã
@@ -79,11 +77,7 @@ Aqui estão TODOS os ingredientes ativos de cada produto. O jogo é: abra o paco
 - **Histidina (979mg):** Ingrediente focado em tampar danos e fadiga. Funciona incrivelmente bem se o seu seguidor tomar também o nosso pré-treino.
 - **Origem (Glanbia/Irlanda):** Essa whey não é "envasada e misturada num galpão". A matéria-prima vem do maior fornecedor de qualidade da Europa (e do mundo).
 
-</details>
-
-<details>
-<summary><b>2. Power Creatine Micronized ⚡</b></summary>
-<br>
+### 2. Power Creatine Micronized ⚡
 
 **O que é:** Creatina monohidratada pura 300g (100doses/3g).
 **Sabores Disponíveis:** Sabor Natural (sem sabor)
@@ -92,11 +86,7 @@ Aqui estão TODOS os ingredientes ativos de cada produto. O jogo é: abra o paco
 - **100% Creatina Pura Micronizada:** Sem ingredientes ocultos ou "blends proprietary". É Creatina pura.
 - **O Fator Micronização (Alemanha):** Por que "micronizada" importa? Ela reduziu o tamanho das pedrinhas da creatina normal que afundam no copo para o tamanho de pó de maquiagem. Isso quer dizer que 100% dessa creatina é absorvida no intestino. Nenhuma grama é gasta e não há inchaço gastrointestinal!
 
-</details>
-
-<details>
-<summary><b>3. Lipo-X HD (Termogênico) 🔥</b></summary>
-<br>
+### 3. Lipo-X HD (Termogênico) 🔥
 
 **O que é:** Queimador de gorduras superpotente.
 **Embalagem:** Pote com 90 Cápsulas
@@ -107,11 +97,7 @@ Aqui estão TODOS os ingredientes ativos de cada produto. O jogo é: abra o paco
 - **Picolinato de Cromo (250mcg):** Dose surreal! Ele é o sensibilizador de insulina que desliga ferozmente aquela "vontade de comer doce pós-almoço" de forma hormonal.
 - **Vitamina B12 (290% do VD):** Proteção para não deixar seu corpo perder as baterias naturais durante as dietas muito fortes.
 
-</details>
-
-<details>
-<summary><b>4. Pré-treino Anabolic Training 🍏</b></summary>
-<br>
+### 4. Pré-treino Anabolic Training 🍏
 
 **O que é:** Pump, energia e foco vascular extremo na dose certa.
 **Sabores Disponíveis:** Maçã Verde Ice | Morango Ice
@@ -123,11 +109,7 @@ Aqui estão TODOS os ingredientes ativos de cada produto. O jogo é: abra o paco
 - **Cafeína (150mg):** Dose cirúrgica. Foco e combate a sonolência.
 - **Isomaltulose (Carbo lento):** Fonte energética que evita picos ou desmaios de açúcar na metade do seu treino de perna.
 
-</details>
-
-<details>
-<summary><b>5. L-Glutamine Premium 🛡️</b></summary>
-<br>
+### 5. L-Glutamine Premium 🛡️
 
 **O que é:** L-Glutamina de máxima pureza, grau clínico e hospitalar.
 **Sabores Disponíveis:** Sabor Natural (sem sabor)
@@ -135,11 +117,7 @@ Aqui estão TODOS os ingredientes ativos de cada produto. O jogo é: abra o paco
 **O que tem dentro (O Escudo Oculto):**
 - **L-Glutamina 100% Pura (Grau Clínico Japonês):** Quando o atleta chega ao seu limite, seu sistema imune cai absurdamente e sua barreira intestinal vaza resíduos. Essa glutamina é a mesma utilizada para suporte em UTIs (padrão de pureza elevadíssimo). Treinar pesado machuca o escudo biológico; a Glutamina levanta esse escudo e impede que o atleta fique doente e perca os ganhos seguidos.
 
-</details>
-
-<details>
-<summary><b>6. Multi AZ Extreme Multivitaminic 💊</b></summary>
-<br>
+### 6. Multi AZ Extreme Multivitaminic 💊
 
 **O que é:** Suporte completo de micronutrientes para cobrir lacunas da dieta de atletas.
 **Embalagem:** Pote com 60 Cápsulas
@@ -147,8 +125,6 @@ Aqui estão TODOS os ingredientes ativos de cada produto. O jogo é: abra o paco
 **O que tem dentro (A Máscara de Oxigênio):**
 - **18 Vitaminas e Minerais em Carga Máxima (Complexo B / Ferro / Vit C / Zinco).**
 - **Diferencial (Qualidade Mineral):** Atletas transpiram mais, treinam mais, têm dietas mais pesadas (o efeito "Dilution" de vitaminas). Em vez de usar sais e sulfatos horríveis de farmácia, usamos **Aspartato de Zinco** (fundamental para a síntese natural de Testosterona), **Selenometionina** e **Cromo** superior. Se o cara tá com dieta de frango pesado há semanas e parou de ganhar, aposte que ele precisa tampar lacunas minerais!
-
-</details>
 
 ---
 
