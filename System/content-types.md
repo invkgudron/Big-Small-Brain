@@ -82,7 +82,7 @@ supplier: <string>
 **Regras:**
 - Um arquivo por SKU/sabor
 - Sempre citar fonte: "Fonte: Rótulo oficial — LABEL_<PRODUTO>.pdf"
-- Linkar `[[brand-core]]` na seção Fabricação
+- Linkar `[[Brand/brand-core]]` na seção Fabricação
 
 ---
 

@@ -5,6 +5,9 @@ type: product-sheet
 status: active
 date: 2026-04-20
 tags: [product-sheet, product]
+related:
+  - "[[Brand/product-catalog]]"
+  - "[[Brand/brand-core]]"
 ---
 
 # LIPO-X HD Thermogênico
@@ -21,7 +24,7 @@ tags: [product-sheet, product]
 | SKU | MPS0001 |
 | Código de barras | 0606529667252 |
 | Sabor | — (cápsulas) |
-| Identidade Visual | [[visual-language]] |
+| Identidade Visual | [[Brand/visual-language]] |
 
 ---
 
@@ -76,7 +79,7 @@ Lote e validade: vide embalagem.
 
 ---
 
-## 🏭 Fabricação — [[brand-core]]
+## 🏭 Fabricação — [[Brand/brand-core]]
 
 | Campo | Detalhe |
 |-------|---------|

@@ -5,6 +5,8 @@ type: decision-log
 status: active
 date: 2026-04-20
 tags: [decision-log, content]
+related:
+  - "[[Content/_index]]"
 ---
 
 # Decisions Log
@@ -392,7 +394,7 @@ Exemplo: "Cafeína bloqueia receptores de adenosina" → "Você não sente a fad
 **Arquivos modificados:**
 - `Brand/product-catalog.md` — tabelas nutricionais injetadas em todos os 8 produtos; perfil de aminoácidos (Whey × 2); bug de ingredientes do Anabolic Training Morango Ice corrigido; dados de origem (Alemanha, Glanbia/Irlanda, Japão) adicionados; WikiLinks inseridos
 - `Brand/brand-core.md` — WikiLinks adicionados para Beta-Alanina, L-Arginina, Taurina, Cafeína, Vitamina B12, Power Creatine, L-Glutamine; nova seção `## Origem das Matérias-Primas` criada
-- `Brand/technical-sheets/*.md` (todos os 8) — `[[visual-language]]` e `[[brand-core]]` adicionados a cada ficha técnica
+- `Brand/technical-sheets/*.md` (todos os 8) — `[[Brand/visual-language]]` e `[[Brand/brand-core]]` adicionados a cada ficha técnica
 
 **Erros corrigidos nesta sessão:**
 1. Anabolic Training Morango Ice: ingredientes diziam "Idênticos ao sabor Maçã Verde Ice" → substituído pela lista completa e correta (Corante Vermelho Ponceau 4R, aroma de morango, sem Verde Rápido FCF)

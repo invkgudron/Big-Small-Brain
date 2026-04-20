@@ -5,6 +5,8 @@ type: audit
 status: active
 date: 2026-04-20
 tags: [audit, system]
+related:
+  - "[[SYSTEMS_CHECKUP_REPORT]]"
 ---
 
 # Systems Checkup Report — Medicinal Pharma Brain

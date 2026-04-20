@@ -71,7 +71,7 @@ Por enquanto nenhum. Produtos descontinuados vão para `_archive/discontinued/` 
 ## Invariantes
 
 1. Toda ficha técnica tem `source: Rótulo oficial — LABEL_*.pdf` no frontmatter
-2. Toda ficha linka `[[brand-core]]` na seção Fabricação
+2. Toda ficha linka `[[Brand/brand-core]]` na seção Fabricação
 3. Toda mudança em brand-core / visual-language / audience registrada em [[Content/decisions-log]]
 4. Novos SKUs são adicionados **aqui + `product-catalog` + `ids.md` + `vault-map`**
 

@@ -136,9 +136,11 @@ approved_examples: [<post_id>, ...]
 ## Campos de relação (opcionais, universais)
 
 ```yaml
-related: [[[arquivo]], [[arquivo]]]      # cross-references fortes
-supersedes: [[arquivo-antigo]]           # se substitui um arquivo
-superseded_by: [[arquivo-novo]]          # se foi substituído
+related:
+  - "[[arquivo]]"
+  - "[[arquivo2]]"
+supersedes: "[[arquivo-antigo]]"
+superseded_by: "[[arquivo-novo]]"
 source: <URL|path>                       # origem externa (CSV, PDF, URL)
 confidence: high | medium | low          # se conteúdo é inferido
 expires_at: <YYYY-MM-DD>                 # para conteúdo time-bound (calendar, campaign)

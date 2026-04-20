@@ -5,6 +5,8 @@ type: email-sequence
 status: active
 date: 2026-04-20
 tags: [email-sequence, content]
+related:
+  - "[[Content/_index]]"
 ---
 
 # Sequência de E-mail — Lead Nurture

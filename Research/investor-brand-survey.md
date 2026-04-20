@@ -5,6 +5,9 @@ type: survey
 status: active
 date: 2026-04-20
 tags: [survey, research]
+related:
+  - "[[Brand/audience]]"
+  - "[[Research/_index]]"
 ---
 
 # Questionário de Onboarding — Posicionamento de Marca & Expectativas

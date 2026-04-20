@@ -5,6 +5,8 @@ type: trends
 status: active
 date: 2026-04-20
 tags: [trends, research]
+related:
+  - "[[Research/_index]]"
 ---
 
 # Research/trends.md — Tendências de Mercado

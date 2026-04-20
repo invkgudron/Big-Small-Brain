@@ -5,6 +5,8 @@ type: issue-log
 status: active
 date: 2026-04-20
 tags: [issue-log, content]
+related:
+  - "[[Content/_index]]"
 ---
 
 # Issues Log — Medicinal Pharma Brain

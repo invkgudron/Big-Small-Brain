@@ -5,6 +5,9 @@ type: product-sheet
 status: active
 date: 2026-04-20
 tags: [product-sheet, product]
+related:
+  - "[[Brand/product-catalog]]"
+  - "[[Brand/brand-core]]"
 ---
 
 # L-Glutamine — 100% L-Glutamina Pura — 300g
@@ -20,7 +23,7 @@ tags: [product-sheet, product]
 | SKU | MPS0005 |
 | Código de barras | 0602883735538 |
 | Sabor | Natural (Natural Flavor) |
-| Identidade Visual | [[visual-language]] |
+| Identidade Visual | [[Brand/visual-language]] |
 
 ---
 
@@ -77,7 +80,7 @@ Lote e validade: vide embalagem.
 
 ---
 
-## 🏭 Fabricação — [[brand-core]]
+## 🏭 Fabricação — [[Brand/brand-core]]
 
 | Campo | Detalhe |
 |-------|---------|

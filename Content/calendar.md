@@ -5,6 +5,8 @@ type: calendar
 status: active
 date: 2026-04-20
 tags: [calendar, content]
+related:
+  - "[[Content/_index]]"
 ---
 
 # Calendário de Conteúdo — Maio 2026

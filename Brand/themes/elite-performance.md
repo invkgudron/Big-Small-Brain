@@ -5,6 +5,8 @@ type: theme
 status: active
 date: 2026-04-20
 tags: [theme, brand]
+related:
+  - "[[Brand/visual-language]]"
 ---
 
 # Elite Performance — Medicinal Pharma Custom Theme

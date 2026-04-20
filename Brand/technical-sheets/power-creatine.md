@@ -5,6 +5,9 @@ type: product-sheet
 status: active
 date: 2026-04-20
 tags: [product-sheet, product]
+related:
+  - "[[Brand/product-catalog]]"
+  - "[[Brand/brand-core]]"
 ---
 
 # Power Creatine Micronized — 300g
@@ -20,7 +23,7 @@ tags: [product-sheet, product]
 | SKU | MPS0006 |
 | Código de barras | 0602883735545 |
 | Sabor | Natural (Natural Flavor) |
-| Identidade Visual | [[visual-language]] |
+| Identidade Visual | [[Brand/visual-language]] |
 
 ---
 
@@ -75,7 +78,7 @@ Lote e validade: vide embalagem.
 
 ---
 
-## 🏭 Fabricação — [[brand-core]]
+## 🏭 Fabricação — [[Brand/brand-core]]
 
 | Campo | Detalhe |
 |-------|---------|

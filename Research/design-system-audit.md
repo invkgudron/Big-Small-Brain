@@ -5,6 +5,8 @@ type: audit
 status: active
 date: 2026-04-20
 tags: [audit, research]
+related:
+  - "[[SYSTEMS_CHECKUP_REPORT]]"
 ---
 
 # Design System Audit — Medicinal Pharma

@@ -8,13 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4878808085d2568e",
+            "id": "de5b7d8c99d40829",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Brand/ingredient-reference.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ingredient-reference"
             }
           }
         ]
@@ -190,7 +194,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "4878808085d2568e",
+  "active": "de5b7d8c99d40829",
   "lastOpenFiles": [
     "Content/templates/cta.md",
     "Content/templates/story.md",

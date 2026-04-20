@@ -5,6 +5,9 @@ type: product-sheet
 status: active
 date: 2026-04-20
 tags: [product-sheet, product]
+related:
+  - "[[Brand/product-catalog]]"
+  - "[[Brand/brand-core]]"
 ---
 
 # Magnific Whey Gourmet 3W — Chocolate com Avelã
@@ -21,7 +24,7 @@ tags: [product-sheet, product]
 | Código de barras | 0602883735996 |
 | Sabor | Chocolate com Avelã |
 | Nota de sabor | Contém aromatizante sintético idêntico ao natural |
-| Identidade Visual | [[visual-language]] |
+| Identidade Visual | [[Brand/visual-language]] |
 
 ---
 
@@ -106,7 +109,7 @@ Lote e validade: vide embalagem.
 
 ---
 
-## 🏭 Fabricação — [[brand-core]]
+## 🏭 Fabricação — [[Brand/brand-core]]
 
 | Campo | Detalhe |
 |-------|---------|

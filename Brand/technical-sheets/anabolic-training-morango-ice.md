@@ -5,6 +5,9 @@ type: product-sheet
 status: active
 date: 2026-04-20
 tags: [product-sheet, product]
+related:
+  - "[[Brand/product-catalog]]"
+  - "[[Brand/brand-core]]"
 ---
 
 # Anabolic Training Extreme Pre Workout — Morango Ice
@@ -21,7 +24,7 @@ tags: [product-sheet, product]
 | Código de barras | 0602883735989 |
 | Sabor | Morango Ice |
 | Nota de sabor | Contém aromatizante sintético idêntico ao natural. Colorido artificialmente. |
-| Identidade Visual | [[visual-language]] |
+| Identidade Visual | [[Brand/visual-language]] |
 
 ---
 
@@ -87,7 +90,7 @@ Lote e validade: vide embalagem.
 
 ---
 
-## 🏭 Fabricação — [[brand-core]]
+## 🏭 Fabricação — [[Brand/brand-core]]
 
 | Campo | Detalhe |
 |-------|---------|

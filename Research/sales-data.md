@@ -5,6 +5,9 @@ type: sales-data
 status: active
 date: 2026-04-20
 tags: [sales-data, research]
+related:
+  - "[[Brand/audience]]"
+  - "[[Research/_index]]"
 ---
 
 # Sales Data — Medicinal Pharma
