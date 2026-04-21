@@ -16,7 +16,6 @@ MOC do domínio `Workflows/`. Processos operacionais, scripts, prompts reutiliz�
 ## Scripts
 
 | Arquivo | Propósito |
-| Arquivo | Propósito |
 |---------|-----------|
 | [[Workflows/create-google-form.gs]] | Google Apps Script — criação de formulário (survey) |
 | [[Workflows/01_python_asset_compositing.py]] | Python — Overlay perfeito de renders 3D em backgrounds gerados por IA |
@@ -25,7 +24,6 @@ MOC do domínio `Workflows/`. Processos operacionais, scripts, prompts reutiliz�
 
 ## SOPs (Standard Operating Procedures)
 
-| Arquivo | Processo |
 | Arquivo | Processo |
 |---------|----------|
 | [[Workflows/01-image-compositing-sop]] | Diretrizes operacionais e script para manter 100% de integridade nos rótulos usando fundo gerado por Inteligência Artifical e Render 3D de produto original |
