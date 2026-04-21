@@ -1,0 +1,56 @@
+{
+  "settings": {
+    "vault_root": "c:/Users/baker/Desktop/MATERIAIS_MEDICINAL_PHARMA/08_OBSIDIAN/Medicinal Pharma Brain",
+    "ai_generated_folder": "C:/Users/baker/.gemini/antigravity/brain/158e4739-86d7-457c-8623-7587a0a472dd"
+  },
+  "compositions": [
+    {
+      "id": "l-glutamine-hero",
+      "target_file": "assets/l-glutamine-hero.png",
+      "render": "Inbox/L_GLUTAMINA/LGLUTAMINA.001.png",
+      "background_pattern": "bg2_hero_*.png",
+      "parameters": {
+        "scale_factor": 0.6,
+        "y_offset": 0,
+        "shadow_offset_y": 0.03,
+        "shadow_blur": 0.02
+      }
+    },
+    {
+      "id": "l-glutamine-benefit",
+      "target_file": "assets/l-glutamine-benefit.png",
+      "render": "Inbox/L_GLUTAMINA/LGLUTAMINA.012.png",
+      "background_pattern": "bg2_benefit_*.png",
+      "parameters": {
+        "scale_factor": 0.7,
+        "y_offset": 50,
+        "shadow_offset_y": 0.03,
+        "shadow_blur": 0.02
+      }
+    },
+    {
+      "id": "l-glutamine-detail",
+      "target_file": "assets/l-glutamine-detail.png",
+      "render": "Inbox/L_GLUTAMINA/LGLUTAMINA.001.png",
+      "background_pattern": "bg_hero_*.png",
+      "parameters": {
+        "scale_factor": 1.6,
+        "y_offset": 400,
+        "shadow_offset_y": 0.0,
+        "shadow_blur": 0.0
+      }
+    },
+    {
+      "id": "l-glutamine-cta",
+      "target_file": "assets/l-glutamine-cta.png",
+      "render": "Inbox/L_GLUTAMINA/LGLUTAMINA.001.png",
+      "background_pattern": "bg2_cta_*.png",
+      "parameters": {
+        "scale_factor": 0.6,
+        "y_offset": -100,
+        "shadow_offset_y": 0.05,
+        "shadow_blur": 0.03
+      }
+    }
+  ]
+}

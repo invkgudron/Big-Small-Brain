@@ -71,7 +71,7 @@ Ver perfil detalhado, dados de compra e rede de afiliados em [[Brand/audience]].
 ## Instagram
 Ver métricas e análise de vendas em [[Research/instagram-insights]].
 
-- Idioma: Português (BR)
+- **Idioma Obrigatório:** Português (BR) — Toda a criação de conteúdo, documentação técnica e arquitetura de posts deve ser feita exclusivamente em PT-BR.
 - Conteúdo: showcases de produto, benefícios, ingredientes, educação
 - Alcance: impulsionado majoritariamente por Reels (não-seguidores)
 

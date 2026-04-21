@@ -134,3 +134,16 @@ Padrão visual extraído de posts aprovados. Referência: [[Content/post-history
 1. **Tipo/atributo** → xBall Italic + dourado (ex: "HIDROLISADA:")
 2. **Descrição** → Montserrat Bold + branco + All-Caps
 3. **URL/CTA** → xBall Italic + dourado (ex: "MPOFICIAL.COM")
+
+---
+
+## Diretrizes de Geração de Imagens (AI)
+
+Ao gerar assets visuais usando IA, as seguintes regras são MANDATÓRIAS:
+
+1. **Fidelidade do Rótulo:** NUNCA alterar a posição, conteúdo ou proporção dos elementos nos rótulos dos produtos (conforme renders fornecidos em `Inbox/`). Texto, estruturas químicas e selos devem ser preservados exatamente como nos arquivos originais.
+2. **Ambiente over Design:** O foco da geração de IA deve ser no cenário, iluminação, reflexos e fumaça/ambientação técnica. O design do produto em si é imutável.
+3. **Estética de Referência:** Studio lighting premium, backgrounds em gradiente azul marinho (#20388a), texturas de alta performance (mármore, carbono, superfícies foscas).
+4. **Identidade Visual:** Respeitar a tipografia Montserrat e xBall Italic nos elementos de overlay que a IA adicionar ao cenário, mas não ao produto.
+
+*Nota: O usuário validou em 20/04/2026 que texturas e direções de luz estão excelentes, mas a precisão do rótulo é crítica.*

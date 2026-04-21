@@ -11,6 +11,22 @@ related:
 
 # Decisions Log
 
+## 20/04/2026 — Fechamento Diário: Automação, Conteúdo e Sanitização PII
+
+**Decisão:** Finalizar a sessão de 20/04 agrupando e salvando as modificações em workflows, scripts, conteúdos sociais e completando a sanitização para adequar o vault ao repositório público (GitHub). Limpeza final do inbox concluída.
+
+**Novos Assets & Operações:**
+- Criação dos automadores de asset compositing (`01_python_asset_compositing.py`, `compositing_config.json`, SOP).
+- Criação e estruturação da taxonomia granular para componentes científicos na subpasta `Brand/ingredients/`.
+- Exportação do guia de influência esportiva (`Brand/influencer-ingredient-guide.md`).
+- Produção de conteúdo estático no diretório `Content/posts/`.
+- Limpeza dos sub-arquivos `L_GLUTAMINA` já processados do `Inbox` para o histórico (`_archive`).
+- Verificação completa de segurança e sanitização (Regex PII, Telefones, Emails). Os dados provaram-se seguros para postagem no GitHub.
+
+**Motivo:** Garantir versionamento seguro, mantendo a disciplina de logging antes de realizar o commit final do dia.
+
+---
+
 ## 20/04/2026 — Criação de Perfis de Fornecedor (Glanbia e Creapure)
 
 **Decisão:** Centralizar informações corporativas e técnicas sobre parceiros de matéria-prima em arquivos dedicados. Foi criada a subpasta `Brand/suppliers/` para abrigar esses perfis, garantindo que o vault suporte inteligência de supply chain de forma estruturada.

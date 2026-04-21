@@ -33,6 +33,7 @@ MOC do domínio `Brand/`. Linka arquivos de identidade, produtos, audiência e c
 |---------|--------------|
 | [[Brand/product-catalog]] | Catálogo completo SKU + preço + kits |
 | [[Brand/ingredient-reference]] | Referência científica dos ingredientes ativos |
+| [[Brand/influencer-ingredient-guide]] | Guia de ciência para influenciadores (Marketing-ready) |
 
 ## Fichas técnicas (`Brand/technical-sheets/`)
 
@@ -74,6 +75,7 @@ Por enquanto nenhum. Produtos descontinuados vão para `_archive/discontinued/` 
 2. Toda ficha linka `[[Brand/brand-core]]` na seção Fabricação
 3. Toda mudança em brand-core / visual-language / audience registrada em [[Content/decisions-log]]
 4. Novos SKUs são adicionados **aqui + `product-catalog` + `ids.md` + `vault-map`**
+5. **Idioma Canônico:** Toda criação de conteúdo e documentação técnica deve ser feita exclusivamente em **Português Brasileiro (PT-BR)**.
 
 ---
 

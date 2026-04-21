@@ -66,6 +66,9 @@ Aqui estão as regras invioláveis de onde o seu **CUPOM DE DESCONTO** oficial p
 
 Aqui estão TODOS os ingredientes ativos de cada produto. O jogo é: abra o pacote que você vai filmar hoje, escolha **apenas 1 a 2 ingredientes principais** listados aqui, pegue esse dado e transforme em um Reel!
 
+> [!tip] 📚 **Deep Dive Técnico**
+> Se você quiser a base científica completa (matéria-prima, doses clínicas e referências) para um conteúdo de altíssima autoridade, acesse nosso **[[Brand/influencer-ingredient-guide|Guia Científico Completo para Influenciadores]]**.
+
 ### 1. Magnific Whey Gourmet 3W 🍫
 
 **O que é:** Proteína 3W (Concentrada + Isolada + Hidrolisada) com sabor premium mundial.
