@@ -115,4 +115,4 @@ Medicinal Pharma Brain/
 *Quality Makes The Difference.*
 
 ---
-*Created by [Your Name/Handle], synthesized by Antigravity AI.*
+*Created by [Adrian Bakero/Digital Designer], synthesized by Antigravity AI.*
